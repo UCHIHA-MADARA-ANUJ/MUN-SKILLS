@@ -1,24 +1,27 @@
-# GSL — MOROCCO — 90 SECONDS
-**Title:** *"The Number Is Zero"* · **Length:** ~205 words (lands 87–90s at a measured 135 wpm with podium pace)
-**Design law honoured:** POIs only fire on leftover time → the clock gets spent in full, every grit of it. Algeria gets no oxygen. 🔥
+# GSL — MOROCCO — 90 SECONDS (v2.0 — FULL SEND)
+**Title:** *"The Number Is Zero"* · **Length:** ~230 words (lands 88–90s at a controlled 150–155 wpm; NOT a sprint — a verdict)
+**Design law honoured:** POIs only fire on leftover time → the clock is spent in full. Algeria gets no oxygen. 💀
+**Upgrades from v1:** Africa moral claim (verified), four-front Rabat rollout (preview-dominates all four mods), harder indictment language, closing challenge to the room.
 
 ---
 
 ## THE SCRIPT
 
-> One hundred sixty-six nations have voted. Ninety-one governments have written to the Secretary-General. Twelve years have burned inside Geneva's committee rooms — and the number of binding rules protecting a human being from a machine that chooses its own targets… is still **zero**.
+> One hundred sixty-six nations have voted. Ninety-one governments have written to the Secretary-General. Three consecutive years, three overwhelming mandates — and twelve years burned inside Geneva's committee rooms. Yet the number of binding rules protecting a human being from a machine that chooses its own targets… is still **zero**.
 >
-> Chairs, honourable judges, fellow delegates — that zero is not an accident. It is a **decision**. A handful of states has turned one convention's working method into a veto over humanity — and called that veto "caution."
+> Chairs, honourable judges, fellow delegates — that zero is not an accident. It is a **decision**. A handful of states has turned one convention's working method into a permanent veto over humanity — and called that veto "caution."
 >
-> Morocco has spent thirteen years on the other side of that decision. We warned the Human Rights Council in 2013. We called for a binding instrument in 2018. We voted yes in 2023, yes in 2024 — and we fly advanced unmanned systems **under human command** every single day. We demand these rules because we operate the technology; not despite it, but because of it.
+> Morocco answers with a record no one in this room can counterfeit. We warned the Human Rights Council in 2013. We called for a binding instrument in 2018. We pledged urgency at Vienna — and voted yes in 2023, yes in 2024. And we operate advanced unmanned systems **under human command** every single day. We demand these rules because we fly the technology — not despite it; **because of it**.
 >
-> Our answer is the **Rabat Framework**: prohibit autonomy against persons, and systems no human can predict. Regulate everything else — reviews, testing, limits, logs. And write accountability into law, because machines cannot stand trial. **Humans can.**
+> And let no one mistake the stakes: the first reported autonomous engagement in warfare happened on **African soil**. Africa refuses to remain the laboratory of anyone's war of tomorrow.
 >
-> In November, Geneva decides. The definition exists. The votes exist. What is missing — is courage. And courage, delegates, is the one resource this room has in surplus.
+> So Morocco tables the **Rabat Framework**, on four fronts: **define** the weapon before it defines the battlefield; **close** the gaps Article 36 never covered; **engineer** human control that survives a software update; and **attribute** every engagement — because a weapon that cannot be traced cannot be deterred, and a law without attribution is a suggestion.
+>
+> In November, Geneva decides. The definition exists. The votes exist. What has been missing is courage — and courage is the one resource this room holds in surplus.
 >
 > The drafting table is open.
 >
-> Morocco is already standing at it.
+> Morocco is already standing at it. **Who is joining us?**
 
 ---
 
@@ -26,38 +29,38 @@
 
 | Situation | Move |
 |---|---|
-| You finish rehearsal under 80s | **SLOW DOWN.** This speech is built for silences. Punch the pauses, don't add words. |
-| Still ~10s of air before 90 | Insert before final line: *"To every delegation still deciding — the African Group said it plainly: these systems must remain under direct, meaningful human control at all times. Morocco simply asks you to make that sentence law."* (+10s) |
-| Chair is militant about the gavel | Pre-planned bail-out: skip *"And courage… surplus."* — land clean on *"Morocco is already standing at it."* (−6s, zero damage) |
-| You're a naturally fast talker | Read the pauses as non-negotiable beats below — they ARE the aggression. Speed-killing this speech turns dominance into nerves. |
+| Rehearsal under 82s | **SLOW DOWN.** This v2 is built for ~90s at podium-command pace. If you're faster than that, you're mumbling the good parts. |
+| Still air before 90 | Insert before "The drafting table is open": *"To every delegation still deciding — the African Group has said it plainly: these systems must remain under direct, meaningful human control at all times."* (+8s) |
+| Over 92s in rehearsal | Bail-out chain, in order of least damage: (1) cut *"Who is joining us?"* (−3s); (2) cut *"— and called that veto 'caution.'"* (−4s); (3) cut *"and a law without attribution is a suggestion"* (−5s) |
+| Emergency hard stop | Land clean on: *"Morocco is already standing at it."* Full stop. Chin up. Done. |
 
 ---
 
 ## 🗣️ DELIVERY MAP (where the violence happens)
 
-- **"…is still zero."** — DROP your voice, don't raise it. One full breath of silence after it. The room should feel accused. 💀
-- **"honourable judges, fellow delegates"** — deliver the salutation *like a verdict*, warm face, cold eyes. The contrast with the opening is the flex.
-- **"— and called that veto 'caution.'"** — slight upward tilt on "caution", tiny pause, move on. Never sneer; sneering costs judges.
-- **"not despite it, but because of it"** — nod slowly while saying this. This is your credibility inversion moment.
-- **"Humans can."** — full stop. Breathe. Let the applause line land BEFORE "In November."
-- **"Morocco is already standing at it."** — no "thank you" needed after this; if the conference culture demands one, make it a clipped, formal *"Thank you, Chair."* — not a trailing mumble.
+- **"…is still zero."** — voice DROPS, not rises. One full breath of silence. The room should feel accused.
+- **"honourable judges, fellow delegates"** — warm face, cold eyes, verdict tone. The contrast with the cold open IS the flex.
+- **"no one in this room can counterfeit"** — scan the room slowly on this line. Not at Algeria specifically. The whole room.
+- **"African soil"** — this is your soul line. Slowest delivery of the speech. It is verified (Libya 2020, UN Panel S/2021/229) and it is yours alone to claim.
+- **The four verbs** — define… close… engineer… attribute… — count them on four fingers if your chair tolerates gesture. Judges photograph structure.
+- **"Who is joining us?"** — rhetorical, expect NO answer. Half-smile, sit down immediately. Do not wait for a response like you need one.
 
 ---
 
-## 🔀 ALTERNATE OPENER (only if you're speaking LATE in the GSL order)
+## 🔀 ALTERNATE OPENER (only if speaking LATE in the GSL order)
 
-If 15 delegates have already thanked the chair, the room needs a pattern-break:
+If the thank-you parade has already happened fifteen times, break the pattern:
 
-> You have heard many fine adjectives this morning, delegates. Morocco brought arithmetic instead: one hundred sixty-six votes. Ninety-one submissions. Twelve years. Zero binding rules.
+> You have heard many fine adjectives today, delegates. Morocco brought arithmetic: one hundred sixty-six votes. Ninety-one submissions. Three years, three mandates. Zero binding rules.
 
-*(Then continue from "Chairs, honourable judges…")* — total word budget stays ~205, same timing.
+*(Then continue from "Chairs, honourable judges…" — budget absorbed; cut the first sentence of the stock paragraph 1 when using this variant.)*
 
 ---
 
-## WHY THIS WINS (judge logic)
+## WHY v2 IS THE ABSOLUTE BEST (judge logic)
 
-1. **Zero fluff entry** — you established command before any protocol, which is memorable precisely *because* everyone else opened with protocol.
-2. **Every number is ledger-verified** (E2, E10, timeline) — if anyone challenges, the receipts are in `11_EVIDENCE_LEDGER.md`.
-3. **Aggression aimed correctly** — "a handful of states," "that zero is a decision" — indicts obstruction without naming or insulting a single country. Untouchable by the chair.
-4. **Self-disclosure armor** — you say Morocco flies these systems BEFORE anyone can "expose" it. Their best attack is now a pre-answered echo.
-5. **Ends with a standing invitation, not a plea** — leaders open drafting tables; followers ask to be heard.
+1. **It's a REAL GSL** — it sweeps the whole agenda: the four-front line previews Mods 1→4, so every moderator now expects Morocco everywhere. You are pre-booked as the omnipresent delegation.
+2. **Kyrie-level receipts stacking** — 2013, 2018, Vienna, two votes, operator identity, Africa. Six credentials in one speech; most delegates have zero.
+3. **Aggression with a license** — the harshest words target *the stall* ("that zero is a decision") — never a country, never a person. Chair-proof, judge-magnet.
+4. **"…is a suggestion"** is the quote delegates carry to lunch — you win the echo chamber before the first unmod.
+5. **Ends with a challenge** — "Who is joining us?" converts a speech into a recruitment funnel directly into your drafting circle.
