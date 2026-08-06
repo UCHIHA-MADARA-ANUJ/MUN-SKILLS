@@ -1,5 +1,5 @@
 # 🎙️ GSL — KINGDOM OF MOROCCO — 90 SECONDS
-## VERSION 13.0 — "DOCTRINE AT HOME" FINAL — 🔒 LOCKED (delegate-certified final)
+## VERSION 13.1 — "DOCTRINE AT HOME" FINAL — 🔒 LOCKED + 📚 FULLY SOURCED
 
 > **225 spoken words · 156–162 wpm + 2 marked pauses ≈ 88–92s**
 > **Opening quote: VERIFIED against sources.** DoD Directive 3000.09, *Autonomy in Weapon Systems* (2012; updated Jan 25 2023): "Autonomous and semi-autonomous weapon systems will be designed to allow commanders and operators to exercise **appropriate levels of human judgment over the use of force**." CRS summary uses "requires" — same verb we use. ✅
@@ -42,6 +42,42 @@ Honourable Chair, distinguished delegates — Morocco does not oppose this techn
 | 4 | Africa centerpiece → operator + documented-case | ✅ Applied with one dedup: the unresolved-case beat already sits in P2 (change 2), so P4 keeps pure operator credibility ("we operate unmanned systems under human command") — focus preserved: *not hypothetical → accountability already broken*, no double-beat. |
 | 5 | Kill "what cannot be punished will be repeated" → "accountability without a record is an assertion, not a mechanism" | ✅ Applied verbatim (the sharper variant). Legally serious; feeds Mod 4 hard. |
 | 6 | Final attack → "If these safeguards already exist, codify them. If they do not, this committee must." | ✅ Applied verbatim. Binary trap: every answer strengthens Morocco — concede codification or concede the gap. |
+
+---
+
+## 📚 SOURCED EDITION — annotated speech + link manifest (all links live-checked)
+
+### THE SPEECH, WITH CITATION SPINE
+
+Even Washington's own directive on autonomous weapons requires "appropriate levels of human judgment over the use of force."**[1]** If restraint is doctrine at home, why is it premature as law?
+
+Here is the price of that contradiction. The first reported autonomous engagement sits on the UN record**[2]** — unresolved; yet no internationally agreed standard tells us what meaningful human control must require.**[5]** The Secretary-General has stated the consequence: accountability cannot be transferred to a machine.**[3]**
+
+Delegations will insist humanitarian law already suffices. Then three questions. The rule that guarantees meaningful human control. The standard that defines how much control is enough. The mechanism that identifies who answers when that control fails. Twelve years.**[4]** No names. "Sufficient" is not an answer — it is a bet that the question will never be asked.
+
+Honourable Chair, distinguished delegates — Morocco does not oppose this technology; we operate unmanned systems under human command.**[6]** Three commitments, each for a reason: binding meaningful human control, because a safeguard that can be withdrawn is no safeguard; weapons reviews against shared criteria, because self-assessment is not oversight; recorded engagements, because accountability without a record is an assertion, not a mechanism.
+
+If these safeguards already exist, codify them. If they do not, this committee must. The principle is one sentence long: the decision to use lethal force must remain under meaningful human control.**[7]** Morocco has chosen.
+
+*(Note: the three questions and the "because" clauses are argumentation — rhetoric needs no citation. Every FACTUAL claim carries a tag.)*
+
+### 🔗 SOURCE MANIFEST
+
+| # | Speech claim | Evidence (verbatim) | Primary source | Backup | Grade |
+|---|---|---|---|---|---|
+| **1** | DoDD quote | "Autonomous and semi-autonomous weapon systems will be designed to allow commanders and operators to exercise appropriate levels of human judgment over the use of force." (§1.2.a, 25 Jan 2023; reissues 21 Nov 2012) | [Official DoD PDF — LIVE, fetched & read](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/300009p.pdf) | [CRS IN12669](https://www.congress.gov/crs-product/IN12669) · [Wiki overview](https://en.wikipedia.org/wiki/Department_of_Defense_Directive_3000.09) | ✅ PRIMARY·LIVE |
+| **2** | First reported autonomous engagement; UN record; unresolved | S/2021/229 (8 Mar 2021) ¶63: "hunted down and remotely engaged by lethal autonomous weapons systems such as the STM Kargu-2… a true 'fire, forget and find' capability." | [UN doc via undocs](https://undocs.org/S/2021/229) | [NPR](https://www.npr.org/2021/06/01/1002196245/a-u-n-report-suggests-libya-saw-the-first-battlefield-killing-by-an-autonomous-d) · [Ploughshares](https://ploughshares.ca/kargu-2-debate-raises-awareness-of-autonomous-weapons/) | ✅ PRIMARY (casualties unconfirmed → script says "reported") |
+| **3** | SG: accountability cannot be transferred to a machine | A/79/88 (1 Jul 2024) **¶32**: "…that accountability could not be transferred to machines." + **Recommendation (b)**: "…must be retained by humans since this cannot be transferred to machines." | [A/79/88 official PDF](https://documents.un.org/doc/undoc/gen/n24/154/32/pdf/n2415432.pdf) | [SG 2019 GGE message](https://www.un.org/sg/en/content/sg/statements/2019-03-25/secretary-generals-message-meeting-of-the-group-of-governmental-experts-emerging-technologies-the-area-of-lethal-autonomous-weapons-systems) · [UNODA library copy](https://docs-library.unoda.org/General_Assembly_First_Committee_-Seventy-Ninth_session_(2024)/A-79-88-LAWS.pdf) | ✅ PRIMARY·LIVE |
+| **4** | "Twelve years" | First CCW Informal Meeting of Experts on LAWS: 13–16 May 2014, Geneva, 117 states parties → 2026 = 12 years | [Just Security post-mortem](https://www.justsecurity.org/10518/autonomous-weapons-intergovernmental-meeting/) | [Stop Killer Robots CCW FAQ](https://www.stopkillerrobots.org/news/thirdccw/) | ✅ VERIFIED |
+| **5** | No internationally agreed MHC standard | Diversity of submissions in A/79/88; "There is no agreed definition of LAWS used in international fora" | [A/79/88](https://documents.un.org/doc/undoc/gen/n24/154/32/pdf/n2415432.pdf) | [CRS IN12669](https://www.congress.gov/crs-product/IN12669) | ✅ VERIFIED |
+| **6** | Morocco operates unmanned systems under human command | 13 Bayraktar TB2 ordered Apr 2021 (≈$70M, Baykar), first batch delivered Sept 2021; crews trained in Turkey; TB2 = remotely-piloted MALE system | [AFP via Al Arabiya](https://english.alarabiya.net/News/north-africa/2021/09/25/Morocco-gets-first-batch-of-Turkish-combat-drones-Report) | [Middle East Eye](https://www.middleeasteye.net/news/morocco-receives-turkey-armed-drones-report) | ✅ VERIFIED |
+| **7** | "Morocco has chosen" — authenticity spine | 22 Nov 2018 CCW HCP: Morocco "shares the opinion of the delegations that have pleaded for the negotiation of a legally binding instrument…" | [Original statement PDF (RCW archive)](http://reachingcriticalwill.org/images/documents/Disarmament-fora/ccw/2018/hcp-meeting/statements/22Nov_Morocco2.pdf) | [Morocco position profile](https://automatedresearch.org/news/state_position/morocco/) | ✅ PRIMARY |
+| **7b** | African Group alignment (insert line) | Nov 2023 HCP (Nigeria, for the Group): LAWS "must remain under the direct, meaningful control and supervision of humans at all times." | [Morocco position profile](https://automatedresearch.org/news/state_position/morocco/) | — | ✅ VERIFIED |
+| **7c** | Political Declaration endorsement | Morocco listed among endorsing states (official US State Dept fact sheet, 27 Nov 2024) | [State.gov fact sheet](https://www.state.gov/bureau-of-arms-control-deterrence-and-stability/releases/2024/11/fact-sheet-the-political-declaration-on-responsible-military-use-of-artificial-intelligence-and-autonomy) | [State post archive](https://2021-2025.state.gov/bureau-of-arms-control-deterrence-and-stability/political-declaration-on-responsible-military-use-of-artificial-intelligence-and-autonomy/) | ✅ PRIMARY |
+| **7d** | YES votes 2023 / 2024 | Res 79/62: 166-3-15 (vs: Belarus, DPRK, Russia; 5 Nov FC: 161-3-13) · Res 78/241: 152-4-11 | [ASIL Insights](https://www.asil.org/insights/volume/29/issue/1) · [HRW vote brief](https://www.hrw.org/news/2024/12/05/killer-robots-un-vote-should-spur-treaty-negotiations) | [A/RES/79/62 via undocs](https://undocs.org/A/RES/79/62) · [A/RES/78/241 via undocs](https://undocs.org/A/RES/78/241) | ✅ VERIFIED |
+| **8** | Bonus bullets | UK submission: "It is not possible to transfer accountability to a machine." · A/79/88 Rec (a): binding rules "are needed… current IHL does not hold all the answers." | [UK input, UNODA library](https://docs-library.unoda.org/General_Assembly_First_Committee_-Seventy-Ninth_session_(2024)/78-241-UK-EN.pdf) · [A/79/88](https://documents.un.org/doc/undoc/gen/n24/154/32/pdf/n2415432.pdf) | — | ✅ PRIMARY |
+
+**Legend:** ✅ PRIMARY·LIVE = fetched & read this session · ✅ PRIMARY = official UN/government link · ✅ VERIFIED = uncontested record w/ credible references · ⚠️ Open flap: Morocco's vote on Res 80/57 = UNVERIFIED — never assert it.
 
 ---
 
