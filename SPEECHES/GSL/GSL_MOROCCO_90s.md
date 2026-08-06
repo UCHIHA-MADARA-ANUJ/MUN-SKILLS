@@ -1,97 +1,93 @@
 # 🎙️ GSL — KINGDOM OF MOROCCO — 90 SECONDS
-## VERSION 11.0 — "DOCTRINE AT HOME" — CURRENT (beast build · opponent's-paper opening)
+## VERSION 12.0 — "DOCTRINE AT HOME" REFINED — CURRENT (delegate's 6 surgical upgrades applied)
 
-> **221 spoken words · 150–162 wpm + 2 marked pauses ≈ 87–93s**
-> **Architecture:** their doctrine (P1) → the cost (P2) → the corner (P3) → Morocco's control (P4) → the verdict (P5)
-> **Core weapon (kept from v9, rebuilt around):** sufficiency = a citation problem with a 12-year null result.
-> **New spine:** the speech opens on **the opposition's own paper** (US DoD Directive 3000.09: "appropriate levels of human judgment over the use of force"), so attacking the frame = attacking their own doctrine.
-> **Rules honored:** no invented facts/brands/quotes/stats · proposals = proposals · operator + African signature irreproducible · mods seeded · verdict ending · zero cringe.
+> **225 spoken words · 156–162 wpm + 2 marked pauses ≈ 88–92s**
+> **Opening quote: VERIFIED against sources.** DoD Directive 3000.09, *Autonomy in Weapon Systems* (2012; updated Jan 25 2023): "Autonomous and semi-autonomous weapon systems will be designed to allow commanders and operators to exercise **appropriate levels of human judgment over the use of force**." CRS summary uses "requires" — same verb we use. ✅
+> **Extra armor found in verification:** the US itself calls "appropriate" deliberately *flexible* (2018 white paper) and the 2023 revision narrows it to "envisioned planning and employment processes" — if any delegate raises this, that's not a rebuttal; it's Exhibit A for why an **international floor** is needed. (Loaded as POI 1 answer.)
 
 ---
 
-## THE FINAL GSL (with the fix incorporated)
+## THE FINAL GSL (v12.0)
 
 **[COLD OPEN — no greeting:]**
 
 Even Washington's own directive on autonomous weapons requires **"appropriate levels of human judgment over the use of force."** If restraint is doctrine at home, why is it **premature** as law?
 
-Here is the price of that contradiction. The first reported autonomous engagement sits on the UN record — unresolved; no rule required anyone to be in control. The Secretary-General has said what that means: accountability cannot be transferred to a machine.
+Here is the price of that contradiction. The first reported autonomous engagement sits on the UN record — unresolved; **yet no internationally agreed standard tells us what meaningful human control must require.** The Secretary-General has stated the consequence: accountability cannot be transferred to a machine.
 
-Delegations will insist humanitarian law already suffices. Then three questions. The provision that guarantees a human selects. The standard defining how much control is enough. The mechanism identifying who answers when both fail. **[PAUSE — 2 seconds]** Twelve years. No names. "Sufficient" is not an answer — it is a **bet** that the question will never be asked.
+Delegations will insist humanitarian law already suffices. Then three questions. **The rule that guarantees meaningful human control.** **The standard that defines how much control is enough.** **The mechanism that identifies who answers when both fail.** **[PAUSE — 2 seconds]** Twelve years. No names. "Sufficient" is not an answer — it is a **bet** that the question will never be asked.
 
-Honourable Chair, distinguished delegates — Morocco does not oppose this technology. We fly it — under human command — and Africa has already hosted the first unresolved case. Three commitments, each for a reason: binding meaningful human control, because a safeguard that can be withdrawn is no safeguard; weapons reviews against shared criteria, because self-assessment is not oversight; recorded engagements, because what cannot be punished will be repeated.
+Honourable Chair, distinguished delegates — Morocco does not oppose this technology; **we operate unmanned systems under human command**. Three commitments, each for a reason: binding meaningful human control, because a safeguard that can be withdrawn is no safeguard; weapons reviews against shared criteria, because self-assessment is not oversight; recorded engagements, because **accountability without a record is an assertion, not a mechanism**.
 
-So show us those three — or help us write them. The choice here is one sentence long: the decision to take a human life stays human — or it does not. **[PAUSE]** Morocco has chosen.
+**If these safeguards already exist, codify them. If they do not, this committee must.** The choice is one sentence long: the decision to take a human life stays human — or it does not. **[PAUSE]** Morocco has chosen.
 
-**WORD COUNT: 221**
+**WORD COUNT: 225**
+
+---
+
+## 📋 THE 6 UPGRADES — CHANGE LOG (v11 → v12)
+
+| # | Delegate's change | Applied |
+|---|---|---|
+| 1 | Verify DoDD 3000.09 wording before keeping | ✅ VERIFIED verbatim (CRS + directive text). Opening kept, unchanged. Bonus armor: US "appropriate = flexible" admission = our case for an international floor. |
+| 2 | "no rule required anyone to be in control" → "yet no internationally agreed standard tells us what meaningful human control must require" | ✅ Applied verbatim. Kills the "IHL has NO obligations" misreading — attacks specificity now, not existence. |
+| 3 | "The provision that guarantees a human selects" → "The rule that guarantees meaningful human control" | ✅ Applied. Names the triad into obligation→standard→mechanism. "Manual selection" POI bait eliminated. (Rhythm tune: item 2 reads "the standard that defines how much control is enough" to avoid echoing P2.) |
+| 4 | Africa centerpiece → operator + documented-case | ✅ Applied with one dedup: the unresolved-case beat already sits in P2 (change 2), so P4 keeps pure operator credibility ("we operate unmanned systems under human command") — focus preserved: *not hypothetical → accountability already broken*, no double-beat. |
+| 5 | Kill "what cannot be punished will be repeated" → "accountability without a record is an assertion, not a mechanism" | ✅ Applied verbatim (the sharper variant). Legally serious; feeds Mod 4 hard. |
+| 6 | Final attack → "If these safeguards already exist, codify them. If they do not, this committee must." | ✅ Applied verbatim. Binary trap: every answer strengthens Morocco — concede codification or concede the gap. |
 
 ---
 
 ## ⏱️ PACE / INSURANCE
-| 221w | 150 | 156 | 162 |
+| 225w | 150 | 156 | 162 |
 |---|---|---|---|
-| +pauses | ~93s | ~90s ✅ | ~87s |
+| +pauses | ~95s | ~92s ✅ | ~88s ✅ |
 - **Insurance cut if >92s:** "each for a reason" (−4)
 - **Insurance insert if <84s:** "The African Group has said it plainly: these systems must remain under direct, meaningful human control at all times." (+19)
 
 ## 🎯 DELIVERY
-- P1: read the quote like you're *quoting a friend* — warm, factual. The trap is in the second sentence; let "premature" carry the blade.
-- P2: fast, factual, no emotion yet — pressure is built by tempo contrast.
-- P3: three questions at rising tempo; then [PAUSE]; "Twelve years. No names." at HALF speed. **Maximum-confidence line: "'Sufficient' is not an answer — it is a bet that the question will never be asked."**
-- P4: shift gear — now you build, not corner. Punch each "because."
-- P5: slow down. "Morocco has chosen." then freeze one second and SIT. No thank you.
-- **THINGS YOU MUST NOT SAY/DO:** never improvise the Libya reference (never "killed," never the system's name, never the document number unsolicited — "reported" and "unresolved" only); never say "ban" before they do; never explain the joke — if the room goes quiet after "doctrine at home," let it.
+- P1: quote warmly, like citing a friend — the blade is "premature," not the quote.
+- P2: tempo up, factual; slow only on the MHC-standard clause.
+- P3: triad at rising tempo; [PAUSE]; "Twelve years. No names." at half speed. Max-confidence line: **"'Sufficient' is not an answer — it is a bet that the question will never be asked."**
+- P4: gear-shift to builder. Punch each "because."
+- P5: binary trap delivered like a judge reading a verdict — level tone, no rise. [PAUSE]. "Morocco has chosen." Freeze one beat. Sit.
+- **NEVER:** improvise Libya details (only "reported"/"unresolved"), say "ban" before they do, explain the opening joke, or speed up during the triad.
 
 ---
 
-## 🧩 STRATEGIC ANNEX
+## 🗡️ FIVE MOST DANGEROUS POIs (updated)
 
-**THE STRATEGIC THESIS (one sentence):** Every serious military already commits to human judgment in principle — and an unwritten principle is indistinguishable from no principle at all; Morocco forces the committee to confront that gap.
-
-**WHY THIS ARGUMENT WINS:**
-- It opens on the opposition's own doctrine — attacking the frame means attacking their own paper.
-- It turns "IHL is sufficient" from a slogan into a citation problem with a documented twelve-year null result.
-- The operator + African signature is irreproducible: no other delegation can credibly hold this frame, so allies must come to Morocco.
-
-**THE ONE ARGUMENT THE OPPOSITION WILL HATE MOST:** The opening pair — because it quotes *their own* requirement ("appropriate levels of human judgment") and asks why the identical sentence is "premature" as law. Any answer either concedes codification or concedes the principle was never real.
-
-**MOD MAP:** Mod 1 (definition) → "the standard defining how much control is enough" → answer: adopt Geneva's consensus characterization · Mod 2 (IHL/Art 36) → "self-assessment is not oversight" → dozen-of-174 · Mod 3 (misreading intent) → fully in reserve (Patriot 2003, decision-support failures) · Mod 4 (attribution) → "what cannot be punished will be repeated" → records, deployer responsibility, notification.
-
-**IT IS MINE, NOT GENERIC:** this exact speech collapses if delivered by Finland, Brazil, or the US — the "we fly it / Africa hosted the first case" pairing exists only for Morocco.
-
----
-
-## 🗡️ FIVE MOST DANGEROUS POIs
-
-1. **"You quoted DoD Directive 3000.09 — American self-restraint working as intended. Voluntary practice proves binding law unnecessary."**
-   - *Exposes:* whether the quote backfires (proof voluntarism works).
-   - *Response:* "The delegate has cited our first exhibit. Their directive proves the standard is operable — written, tested, flown. We ask only that what one capital wrote for itself cease to be optional for everyone. Practice that never leaves home protects no one abroad."
+1. **"You quoted DoDD 3000.09 — that's American self-restraint working as intended. Voluntary practice makes binding law unnecessary."**
+   - *Exposes:* whether the quote backfires.
+   - *Response:* "The delegate cites our first exhibit. The directive proves the standard is operable — written, tested, flown. We ask only that what one capital wrote for itself stop being optional for all. And note: the same system calls 'appropriate' deliberately flexible — flexibility is fine for one power. A floor is what the rest of us are owed."
 
 2. **"Article 36 and command responsibility already answer your three questions."**
-   - *Exposes:* the legal core.
-   - *Response:* "Name the standard, then. Barely a dozen of 174 parties run reviews, each grading itself, several major powers outside the instrument entirely. A duty performed in private by a handful is not sufficiency — it is the gap, described. Twelve years. Still no names."
+   - *Exposes:* legal core.
+   - *Response:* "Name the standard, then. Barely a dozen of 174 parties run reviews, each grading itself — several major powers outside the instrument entirely. A duty a handful performs in private is not sufficiency. It is the gap, described."
 
-3. **"A binding push now is premature and undermines CCW consensus."**
-   - *Exposes:* process/fear of forum-shopping.
-   - *Response:* "'Premature' has been the answer for twelve years; the technology never once waited for it. The characterization exists, the principles exist — codifying what consensus built is not undermining Geneva; it is arriving prepared."
+3. **"Binding law now is premature and undermines CCW consensus."**
+   - *Exposes:* process fear.
+   - *Response:* "'Premature' has been the answer for twelve years; the technology never waited for it once. The characterization and principles exist — codifying what consensus built is arriving prepared, not undermining Geneva."
 
 4. **"'Meaningful human control' is undefined — you cannot bind the undefined."**
-   - *Exposes:* legal feasibility of the flagship term.
-   - *Response:* "The parameters already guide national practice: predictability, reliability, the human ability to intervene and abort. Shared criteria turn practice into standard. 'Undefined' is the case for drafting — never for delay."
+   - *Exposes:* flagship term feasibility.
+   - *Response:* "The parameters already guide national practice: predictability, reliability, the ability to intervene and abort. Shared criteria turn practice into standard. 'Undefined' is the case for drafting — never for delay."
 
-5. **"Morocco flies armed drones — including in contested files. Convenient principle."**
-   - *Exposes:* hypocrisy + regional geopolitics (Algeria vector).
-   - *Response:* "Under human command, within humanitarian law — proof the standard is operable, not its exception. We regulate the decision, not the tool. And allegations are not verdicts; any delegation that wants verdicts needs our attribution records more than we do."
+5. **"Morocco flies armed drones. Convenient principle."**
+   - *Exposes:* hypocrisy (Algeria vector).
+   - *Response:* "Under human command, within humanitarian law — proof the standard is operable, not its exception. We regulate the decision, not the tool. Allegations are not verdicts — whoever wants verdicts needs our attribution records more than we do."
 
-*(Bonus, keep loaded: **Political Declaration trap** → "Floors are built on, never hidden behind. The Declaration governs responsible use by humans; it is silent on the absence of a human decision. That silence is this agenda." · **Hollow norm** → "Landmines stopped being respectable long before they became universal. Ask a rule some resist, or accept a vacuum all exploit.")*
+*(Bonus: **Declaration trap** → "Floors are built on, never hidden behind. The Declaration governs responsible use by humans; it is silent on the absence of a human decision. That silence is this agenda." · **Hollow norm** → "Landmines stopped being respectable long before they became universal. The alternative to a rule some resist is a vacuum everyone exploits.")*
 
 ---
 
+## 🧭 MOD MAP (coherent campaign)
+Mod 1 definition → "the standard that defines how much control is enough" → adopt Geneva's consensus characterization · Mod 2 Art 36/IHL → "self-assessment is not oversight" → dozen-of-174, missing parties · Mod 3 misreading intent → fully in reserve (Patriot 2003, decision-support) · Mod 4 attribution → "an assertion, not a mechanism" → records, deployer responsibility, notification roster.
+
 ## 🩸 RED-TEAM RESIDUALS & ARMOR
-- **The DoDD quote** — verbatim within the directive (2023 revision); "requires… 'appropriate levels'" is accurate. If pressed on DoDD hedges (national interpretation of "appropriate"): *that ambiguity is precisely the argument for an international floor.*
-- **"Reported… unresolved"** — Kargu-2 unconfirmed casualties; armor is the very phrasing. Attacks prove Mod 4.
-- **"Twelve years. No names."** — since 2014 CCW discussions; no provision/standard/mechanism adopted. ✅
-- **Self-oversight clause** — reviews stay national under our proposal (shared criteria, national custody); sovereignty answer ready (POI set, prior builds).
+- DoDD quote: verbatim within directive; "requires" = CRS's own verb. If flipped as flexibility/DoDD-narrowing → our floor answer (POI 1). ✅
+- "Reported… unresolved" — attacks on Libya facts *demonstrate the attribution gap* (commitment 3) live. ✅
+- "Codify them" challenge assumes opponents claim safeguards exist — if they dodge both horns ("more study needed"), answer: "Study has had twelve years. Report what it found." ✅
 
 ## 🗂️ ARCHIVES (situational fallbacks, by commit)
-v9.0 "Name Three Things" (pure pressure build — hostile-room fallback): `1de9d3c` · v8.0 (academic register): `cec9d00` · v7.0 (theatrical, caucus-rhetoric only): `8a7db94` · v6.0: `7953b6c` · v5.0: `2fc0726`.
+v11.0 (Africa-signature variant — use if the room needs the regional beat): `277a342` · v9.0 (pure pressure): `1de9d3c` · v8.0 (academic): `cec9d00` · v7.0 (theatrical, caucus-rhetoric only): `8a7db94`.
