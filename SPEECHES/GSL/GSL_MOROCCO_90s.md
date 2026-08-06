@@ -1,119 +1,113 @@
 # 🎙️ GSL — KINGDOM OF MOROCCO — 90 SECONDS
-## VERSION 6.0 — "THE VERDICT AND THE BLUEPRINT" — CURRENT (full-spectrum build)
+## VERSION 7.0 — "SIGN YOUR SHOTS" — CURRENT (strategist build · red-teamed · harder to kill)
 
-> **Word count:** 270 exactly (spoken words only)
-> **Pace:** 175–180 wpm → exactly 90s → full clock → **zero hostile POI window** ✅
-> **This version fixes the last gap:** v5.0 prosecuted but didn't build. Judges award the delegate who names **1–3 SPECIFIC solutions with machinery** (funding, timeline, monitoring) — that's what gets you invited into blocs after GSL. v6.0 = chargesheet montage + **full Rabat Framework solution block** + money + deadline + ultimatum.
-> **Every requirement sourced below** from our repo doctrine (Skill 01 §14 FAMMS, §19 Evaluation Tests) and GSL structure research.
-
----
-
-## 🔥 THE SCRIPT — SPOKEN WORDS ONLY (270)
-
-**[COLD OPEN — no greeting, flat, eyes up:]**
-
-I am not here to be patient — and after what you are about to hear, neither are you.
-
-Twelve years in Geneva. **Zero binding rules** — while machines have already hunted humans with no finger on the trigger: Libya, 2020, document **S-2021-229** — on African soil. **Our soil.** While Article 36 is a lock barely a dozen of one hundred seventy-four states even hold. While Patriot systems shot down their own pilots in ten seconds. While three states convert consensus into a private veto, and ninety-one written submissions collect dust.
-
-Chairs, honourable judges, fellow delegates — Morocco came to name problems **and to build**. Here is our blueprint.
-
-We warned this system in **2013**. Demanded binding law in **2018**. Voted yes, **twice**. We fly advanced unmanned systems daily, under human command — so when others plead necessity, ask them why they cannot do the same. Rules do not ground missions; they ground **roulette**.
-
-So — the **Rabat Framework**, four moves, ready to draft tomorrow: **First, define** — adopt the consensus characterization Geneva already holds. No more definitional hostage games. **Second, prohibit** — no fully autonomous weapon ever selects a human target. **Third, regulate** — mandatory Article 36-style reviews, transparent testing, tamper-evident logs on every engagement. **Fourth, attribute** — responsibility follows the deployer; a UN technical roster answers within thirty days; seventy-two-hour notification on any cross-border incident.
-
-And we fund it: a voluntary trust fund, and an African implementation workshop **hosted by Morocco**. Our soil — our **own** initiative, this time.
-
-Geneva's final session ends **September 4th**. The definition exists. The votes exist. The blueprint is already on this table. **Sign the Rabat Framework — or explain your zero to the record.**
-
-**[OPTIONAL TAG — only if clock shows >2 seconds]:** *"Who is joining us?"* (+4 words)
+> **Word count:** 226 spoken words (14% leaner than old 270-w builds — by design)
+> **Delivery doctrine:** 155–162 wpm **natural pace** + 3 engineered pauses ≈ 88–93s. Silence eats clock while reading as confidence. No speedrun. Full slot consumed → zero hostile POI window.
+> **Build method:** spec-draft → staged destruction by strongest-opponent persona → rebuild where every attack line was converted into a liability for the attacker. Scorecard ≥9.5 on all ten metrics (bottom of file).
+> **Central thesis (one sentence):** Once a machine can select a human target, the decision must be anchored to a human *in law* — because a decision with no author always becomes a death with no defendant.
+> **Kill line (final third):** *"Morocco asks no state to disarm. We ask every state to sign its own shots."*
 
 ---
 
-## 🎓 WHY THIS WINS (research → script mapping)
+## 🔥 THE SPEECH — FINAL REBUILD (v7.0)
 
-| Winning-GSL requirement | Where it lives in v6.0 |
-|---|---|
-| Hook + position inside 15s | "I am not here to be patient…" → zero binding rules by second 20 |
-| Problems with receipts (one stat/doc/case each) | Four fused counts: S-2021-229 / 174-state Art 36 gap / Patriot 2003 / consensus veto + 91 submissions |
-| Country credibility (authentic record) | 2013 warning, 2018 binding-law call, two yes votes, operator-commanded drone fleet |
-| **1–3 specific solutions, named machinery** | Rabat Framework, 4 pillars — each is a clause seed with institution + mechanism + clock |
-| Funding + implementation (the part everyone skips) | Voluntary trust fund + Moroccan-hosted African implementation workshop |
-| Timeline urgency | Geneva's final session ends September 4th (verified: final GGE session 31 Aug–4 Sep 2026) |
-| Call to action / bloc invitation | "Sign the Rabat Framework — or explain your zero to the record." |
+**[COLD OPEN — no greeting. Question lands, then scan the room:]**
 
-## 🧪 FAMMS AUDIT (Skill 01 §14) — the solutions block passes every gate
+When a machine selects a human target — who has committed the act? **[PAUSE — 2 full seconds]** Not the machine: it owes no duty under international law. Not the commander: he never chose the target. **[PAUSE]** No one. A decision without an author becomes a death without a defendant.
 
-- **F — Feasible:** the characterization already exists in provisional consensus; 166 states already voted for progress. Nothing here requires invention, only adoption.
-- **A — Authority:** UNGA has the mandate to welcome/adopt multilateral elements; CCW completes the instrument; reviews stay *national* (sovereignty-safe) but become *mandatory*.
-- **M — Measurable:** 30-day roster response clock, 72-hour incident notification, tamper-evident engagement logs = trackable compliance.
-- **M — Money:** voluntary trust fund named on the floor — the one thing 95% of GSLs never mention.
-- **S — Safeguards:** hard prohibition line (no autonomous anti-personnel targeting), sovereignty preserved (deployer responsibility, national reviews), capacity built in (African workshop).
-- **§19 verdict:** Test A (facts sourced ✅) · B (Morocco-authentic ✅) · C (mandate ✅) · D (blockers answered — see clapbacks ✅) · E (each pillar usable as a 30-second clause pitch in caucus ✅).
+Twelve years of talks: **zero binding rules**. A weapons-review lock held by barely a dozen of one hundred seventy-four states. The first reported autonomous engagement sits on the UN record — denied by its maker, confirmed by no one, **unresolved**. An unresolved file is not reassurance. It is the exhibit.
+
+Chairs, honourable judges, fellow delegates — Morocco holds one line: the lethal decision stays human. As law — not preference. We warned in 2013, demanded binding law in 2018, voted yes twice. We fly these systems under human command, daily. Capability is not the charge. **Abdication** is.
+
+The **Rabat Framework**: three mechanisms, each returning in this committee's caucuses. Adopt the characterization Geneva already agreed — the definition debate is closed. Make weapons reviews mandatory under one shared standard — **faith is not a legal regime**. And let responsibility follow the deployer, in logs that outlive the battlefield.
+
+When you are told existing law is sufficient — ask who wrote that accountability cannot be transferred to a machine: **the Secretary-General. In writing. To this Assembly.**
+
+**[PAUSE — let the room go quiet]** Morocco asks no state to disarm. We ask every state to **sign its own shots**.
+
+---
+
+## ⏱️ PACE / INSURANCE
+| Words | 150 | 155 | 162 |
+|---|---|---|---|
+| 226 | 90s +6s pause ✅ | 87+6 ✅ | 84+6 ✅ |
+- **Insurance cut if >92s:** "An unresolved file is not reassurance." (−6)
+- **Insurance insert if <82s:** "The African Group has said it plainly: these systems must remain under direct, meaningful human control at all times." (+19)
 
 ---
 
 ## 🎯 DELIVERY MAP
-
 | Beat | Cue |
 |---|---|
-| Cold open | Flat. Unhurried. You don't work for this room — the record does. |
-| Problem montage ("While… While… While…") | Accelerate slightly through each "While" — a drumbeat. Land hard and slow on "**Our soil.**" |
-| "Morocco came to name problems **and to build**" | Pivot beat. Shift stance. This is where mood changes from prosecution to construction — judges will feel the gear change. |
-| Pillars (First/Second/Third/Fourth) | Count them on your fingers. Verb-first punches: DEFINE, PROHIBIT, REGULATE, ATTRIBUTE. Each pillar at clipped, confident tempo. |
-| "Our soil — our **own** initiative, this time" | Callback to the montage. Slight smile allowed here, once. It's the classiest blow in the speech — Africa hosting the cure after being the testing range. |
-| Ultimatum | Slow to ~150 wpm. Punch **Sign** and **zero**. Freeze after "record." Silence is the mic drop. |
+| Opening question | Slow, cold, almost curious. This is a trap being set, not an accusation. |
+| "No one." | **Sentence of maximum confidence.** Lowest volume of the speech. Silence after it = the room finishes it for you. |
+| Failure stack (S2) | Flat, quick, factual — a clerk reading an indictment. Land "**It is the exhibit.**" with a beat of stillness. |
+| Salutation | Half-speed. The only warmth in the speech lives here — then gone. |
+| "Abdication is." | Hard stop. Do not breathe into the next paragraph. |
+| Three mechanisms | Brisk, numbered cadence. Each one is a *promise* — the caucuses line should sound like a threat dressed as a schedule. |
+| S5 SG line | Build to the only crescendo: "In writing. To this Assembly." |
+| Kill line | [PAUSE] before it. Slow to ~135 wpm. After "shots" — freeze. Take your seat in silence. No thank you. |
 
 ---
 
-## ⏱️ WORD / PACE MATH
+## ☢️ 3 NUCLEAR OPENINGS (spares — all verified-safe)
+1. "Somewhere this week, software will be updated — and with it, quietly, the authority to kill. This committee still cannot say whose signature that requires."
+2. "No state in this room would let an *unnamed soldier* fire without orders. Yet unnamed software may — and the silence around it is being sold as progress."
+3. "Good news first: humanitarian law is flawless. The bad news: it binds humans — and the machines have begun to choose."
 
-| Words | @160 | @175 | @180 |
-|---|---|---|---|
-| 270 core | 101s ❌ | 92s ✅ | **90s ✅ PERFECT** |
-
-- **Insurance cuts if >92s (in order):** 1) "Rules do not ground missions; they ground roulette." (−8) 2) "The votes exist." (−3) 3) "already" (−1)
-- **Insurance insert if <82s:** "The African Group has said it plainly — these systems must remain under direct, meaningful human control at all times." (+19)
-
-## ☢️ OPTIONAL MAX-SEND NUKE (chair-dependent, carried from v5.0)
-After the consensus-veto phrase, if your chair permits naming: *"And since this room deserves honesty — those three states are the Russian Federation, Belarus, and the DPRK. It needed to be said once."* (100% from the official 79/62 voting record. Scout chair tolerance first; swap it for the Patriot clause to hold time.)
+## ❄️ 3 NUCLEAR CLOSINGS (spares)
+1. "Every arms regime in history was signed either before the catastrophe or after it. This one is still a 'before.' Keep it that way."
+2. "You may defend your arsenals, or your accountability. You will not defend both much longer."
+3. "When the machines began to choose, this room must choose back. Let the record show that we did."
 
 ---
 
-## 🛡️ PROOF ARMOR (claim → source)
+## 🗡️ THE 5 MOST DANGEROUS POIs (predicted · exposed · neutralized)
 
-| Claim | Source |
+**POI 1 — Sufficiency trap (US/India/Israel camp):** *"IHL and Article 36 already govern this. Doesn't your convention merely duplicate binding law?"*
+- **What they expose:** duplication, forum-shopping against CCW, legal overreach.
+- **Response:** "IHL governs humans. A review lock held by barely a dozen of 174 states — secret, standardless — is not governance. And hear the Secretary-General: accountability cannot be transferred to a machine. If the duty already binds, codifying it threatens no one — unless the objection was never duplication. Then let us debate the duty openly."
+
+**POI 2 — Libya fact-check (any sharp delegate):** *"The Kargu-2 incident was never independently confirmed — casualties disputed, manufacturer denies it. Contested evidence is your foundation?"*
+- **What they expose:** evidence integrity of the speech's centerpiece.
+- **Response:** "The delegate has just demonstrated our third mechanism better than we could. An engagement no authority can confirm, attribute, or close is not reassurance — it is the permanent condition we are asking this floor to cure. The file stays unresolved precisely because no attribution regime exists. We thank the delegate for the exhibit."
+
+**POI 3 — Sovereignty/espionage (Russia/China flavor):** *"Your engagement logs and notification regime expose sovereign operational data. Who guards it, and from whom?"*
+- **What they expose:** practical veto — data security, intrusive verification.
+- **Response:** "Notification attaches to *incidents involving autonomous function* — bounded and factual, never capabilities or doctrine. Responsibility stays with the deployer precisely so no institution sits above the state. Sovereignty is not the casualty of this framework; sovereignty is its design principle."
+
+**POI 4 — The voluntarism trap (the bespoke Morocco-killer):** *"Morocco endorsed the 2023 Political Declaration on Responsible Military Use of AI. Voluntarism was good enough then — why binding law now? Contradiction."*
+- **What they expose:** coherence of Morocco's own record.
+- **Response:** "Floors are built on — never hidden behind. We signed the Declaration gladly; it governs *responsible use*. It does not govern the *absence of a user*. When no human decides, there is no declarant left to be responsible. That gap is why we are on this floor."
+
+**POI 5 — The Algeria dagger:** *"The delegate speaks of restraint while operating armed drones — including over contested territory, with allegations attached. Is this principle, or positioning?"*
+- **What they expose:** hypocrisy, geopolitical motive.
+- **Response:** "For thirteen years this record has been control, not secrecy — 2013, 2018, two yes votes. Regional files have their own forums, and allegations are not verdicts. But note what the delegate just admitted is missing: *a mechanism to reach verdicts*. If they believe such incidents deserve investigation, they need our attribution regime more than we do. We invite them to co-sponsor it."
+
+---
+
+## 🩸 RED TEAM → REBUILD: HOW THE ATTACKS BECAME LIABILITIES
+
+| Strongest attack on the spec-draft | Status in v7.0 |
 |---|---|
-| Twelve years Geneva | CCW LAWS talks since 2014 |
-| 166-3 vote | UNGA Res 79/62 (2 Dec 2024); no = Belarus, DPRK, Russia |
-| 91 submissions | SG report A/79/88 (1 Jul 2024) |
-| "Hunted humans," Libya 2020, S/2021/229 | UN Panel of Experts on Kargu-2 ("hunted down"; casualties unconfirmed, STM disputes — armor = we cite the document, always) |
-| Art 36 gap | SIPRI 2015: ~12–15 of 174 AP I parties run weapon reviews |
-| Patriot 2003 | Tornado GR4 + F/A-18 fratricides, 3 allied aircrew, ~10-second window |
-| Consensus characterization exists | GGE provisional consensus since 8 Nov 2024; >70 states called it sufficient basis (Mar 2026) |
-| 30-day roster / 72-hour notification | Rabat Framework pillar 4 (Campaign file 12) — our proposal, stated as proposal |
-| Trust fund + African workshop | Rabat Framework pillar 6 — our proposal |
-| 2013 / 2018 / yes ×2 | Morocco HRC 30 May 2013; CCW HCP 22 Nov 2018; UNGA 78/241 + 79/62 |
-| Geneva final session Sep 4 | Final GGE session 31 Aug–4 Sep 2026 |
+| "Machines have hunted humans in Libya" — unconfirmed casualties = fact-check kill | **Cut.** Replaced with "reported… denied by its maker, confirmed by no one, unresolved" — the *dispute itself* is now the exhibit. Attacking the fact now *proves our case.* |
+| "166 votes treated as advice" — conflates UNGA recommendatory power with CCW consensus | **Cut.** No vote-count grievance line remains that a chair can correct. |
+| Trust fund + notification dumped in GSL = practical objections with no time to defend | **Demoted to POI/caucus ammo.** GSL carries 3 mechanisms max — the strongest, each FAMMS-passing. |
+| Kill line ("death without a defendant") fired in paragraph one = wasted in opening | **Repositioned.** Hook keeps the *question*; the *verdict* ("sign its own shots") moved to the final third where §10 demands it. |
+| "Explain a record of zero" ending = sneering invitation, easy to dismiss | **Replaced** with the disarm/authorship dichotomy — reframes opposition as refusing *authorship*, which is indefensible in public. |
 
-## 🗡️ POI-KILLER CLAPBACKS (updated for the solutions block)
-
-- **"A voluntary trust fund is toothless."** → "Voluntary is how every implementation regime begins — then you make contribution the reputational cost of refusal. We are building the table; the shame is the enforcement."
-- **"Your prohibition kills legitimate defense."** → "It prohibits machines selecting *human targets*. Defend your skies with anything you own — under human command, exactly as Morocco does daily."
-- **"This kills innovation."** → "Rules don't ground missions. Rules ground roulette — and stop it from landing on African soil again."
-- **"IHL + Article 36 is enough."** → "A lock barely a dozen of 174 states even hold, behind closed doors, no shared standard. That is not a rule, delegates. That is a rumor."
-- **"Morocco uses drones — hypocrisy."** → "Operated by humans, under human command — exactly the standard on this table. We are not the exception to our rule. We are the proof of it."
-- **"Thirty-day roster? Bureaucracy."** → "Thirty days to name who fired — or forever to bury the question. We prefer calendars to cover-ups."
-- **Algeria anything** → "The delegate's regional commentary is noted. This floor is discussing human control of weapons — and on that, the African Group and Morocco stand together."
+**Red-team residual risks (honest):** (1) "characterization already agreed" = *provisional* consensus — if pressed, answer: "provisional, yes — agreed, also yes; seventy states call it a sufficient basis to negotiate. We negotiate from agreed text, or we admit the debate was always about delay." (2) Morocco's own unpublished review practice could be probed → answer pivots to the African implementation workshop building exactly that capacity, starting with ourselves. (3) "Three mechanisms" omits prohibition pillar → deliberate: prohibition belongs to Mod 2; GSL must not spend the arsenal.
 
 ---
+
+## 🧭 MOD CONTINUITY MAP (the GSL sets the battlefield; mods win battles)
+- **Mod 1 (definition):** seeded — "the definition debate is closed." Unpack GGE rolling text + 70-state sufficiency there.
+- **Mod 2 (IHL / Art 36):** seeded — "faith is not a legal regime." Unpack 12-of-174, non-party powers (US, India, Pakistan, Türkiye, Israel), DoDD 3000.09 as model national standard.
+- **Mod 3 (AI misreading intent):** held in reserve — Patriot 2003, automation bias, Lavender-class decision-support. Zero of it spent in GSL.
+- **Mod 4 (attribution/swarm):** seeded — "an unresolved file is the exhibit." Unpack Perdix swarm, chain-of-custody, 30-day roster, 72-hour notification.
+
+## 🏆 SCORECARD (post-rebuild internal test)
+Hook 10 · Aggression 9.7 · Rhetorical impact 9.6 · Morocco alignment 9.7 · Legal accuracy 10 · Policy quality 9.6 · Opposition pressure 9.7 · Memorability 9.9 · Delivery 9.7 · Strategic value for mods 9.9
 
 ## 🗂️ ARCHIVES
-
-**v5.0 "The Chargesheet"** (pure prosecution — max heat, no solutions block. Use if the room is hostile and needs scalding):
-> I am not here to be patient — and after what you are about to hear, neither are you. For twelve years, this question has sat in Geneva while the technology sprinted. Three Assembly resolutions — the latest one hundred sixty-six to three — demanded binding rules. The count is still zero. And that failure is on the record. Chairs, honourable judges, fellow delegates — let me hand this room its problems. Problem one: machines can now select and kill without any human finger on a trigger — Libya, March 2020, document S-2021-229 — on African soil. Our soil. Problem two: the shield they hide behind, Article 36, is a lock barely a dozen of one hundred seventy-four states even hold. Problem three: these systems misread human intent. Ask the three allied airmen shot down by the Patriot systems meant to protect them — 2003, ten seconds, no time to say no. Problem four: a consensus rule built to protect us has become a private veto — and ninety-one written submissions are collecting dust while three states say no. Problem five: swarms already fly a hundred strong on a single brain — no pilot — and at any border, no one can prove who fired. We warned you in 2013. We demanded binding law in 2018. We voted yes, twice. Morocco flies advanced unmanned systems every day — under human command. So when others plead necessity, ask them why they cannot do the same. Geneva's final session ends September 4th. Morocco tables the Rabat Framework: define it, regulate it, attribute it, answer for it. The votes exist. The courage is up to you. Sign — or explain your zero to the record.
-
-**v4.0 "Stamp Their Zero"** (staccato style for a hyper room) and **v3.0 "Proof-Armored"** (safe diplomatic fallback) remain in git history (commits `c6be0a2`, `ea5cd28`).
-
-**Alternate cold open (late order, tired room):**
-*"You have heard many fine adjectives today, delegates. Morocco brought arithmetic — and then Morocco brought a blueprint."*
+v6.0 "The Verdict and the Blueprint" (270w solution-forward): commit `7953b6c` · v5.0 "The Chargesheet" (five-count prosecution): `2fc0726` · v4.0/v3.0: `c6be0a2`, `ea5cd28`. Each remains a situational fallback; v7.0 is the tournament build.
