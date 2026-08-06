@@ -1,5 +1,5 @@
 # 🎙️ GSL — KINGDOM OF MOROCCO — 90 SECONDS
-## VERSION 12.0 — "DOCTRINE AT HOME" REFINED — CURRENT (delegate's 6 surgical upgrades applied)
+## VERSION 13.0 — "DOCTRINE AT HOME" FINAL — 🔒 LOCKED (delegate-certified final)
 
 > **225 spoken words · 156–162 wpm + 2 marked pauses ≈ 88–92s**
 > **Opening quote: VERIFIED against sources.** DoD Directive 3000.09, *Autonomy in Weapon Systems* (2012; updated Jan 25 2023): "Autonomous and semi-autonomous weapon systems will be designed to allow commanders and operators to exercise **appropriate levels of human judgment over the use of force**." CRS summary uses "requires" — same verb we use. ✅
@@ -15,13 +15,20 @@ Even Washington's own directive on autonomous weapons requires **"appropriate le
 
 Here is the price of that contradiction. The first reported autonomous engagement sits on the UN record — unresolved; **yet no internationally agreed standard tells us what meaningful human control must require.** The Secretary-General has stated the consequence: accountability cannot be transferred to a machine.
 
-Delegations will insist humanitarian law already suffices. Then three questions. **The rule that guarantees meaningful human control.** **The standard that defines how much control is enough.** **The mechanism that identifies who answers when both fail.** **[PAUSE — 2 seconds]** Twelve years. No names. "Sufficient" is not an answer — it is a **bet** that the question will never be asked.
+Delegations will insist humanitarian law already suffices. Then three questions. **The rule that guarantees meaningful human control.** **The standard that defines how much control is enough.** **The mechanism that identifies who answers when that control fails.** **[PAUSE — 2 seconds]** Twelve years. No names. "Sufficient" is not an answer — it is a **bet** that the question will never be asked.
 
 Honourable Chair, distinguished delegates — Morocco does not oppose this technology; **we operate unmanned systems under human command**. Three commitments, each for a reason: binding meaningful human control, because a safeguard that can be withdrawn is no safeguard; weapons reviews against shared criteria, because self-assessment is not oversight; recorded engagements, because **accountability without a record is an assertion, not a mechanism**.
 
-**If these safeguards already exist, codify them. If they do not, this committee must.** The choice is one sentence long: the decision to take a human life stays human — or it does not. **[PAUSE]** Morocco has chosen.
+**If these safeguards already exist, codify them. If they do not, this committee must.** **The principle is one sentence long: the decision to use lethal force must remain under meaningful human control.** **[PAUSE]** Morocco has chosen.
 
 **WORD COUNT: 225**
+
+---
+
+## 🔒 FINAL CERTIFICATION — DELEGATE'S LAST 3 CUTS (v12 → v13, speech now LOCKED)
+1. **Opening kept & reverified** — DoDD 3000.09 quote verbatim-confirmed (CRS + directive text).
+2. **"…who answers when *that control* fails"** — referent fixed ("both" was ambiguous), legally precise.
+3. **Ending now lands on the policy term itself:** "The principle is one sentence long: the decision to use lethal force must remain under meaningful human control." — rings the same bell as triad item 1 and the MHC clause in P2. The speech's signature word is now its last word before the verdict.
 
 ---
 
