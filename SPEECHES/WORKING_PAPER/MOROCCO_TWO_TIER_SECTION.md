@@ -1,86 +1,130 @@
-# 📜 MOROCCO'S WORKING-PAPER SECTION — THE TWO-TIER APPROACH
-### 🔒 FINAL v1.0 — paste-ready · format-checked against Singapore's drafting rules · Q&A-loaded
+# 🇲🇦 MOROCCO — THE TWO-TIER SECTION (FINAL SEND VERSION)
 
-> **AT A GLANCE**
-> 🎯 Role: **the structural spine of the working paper** — Morocco defines which autonomous weapons systems are prohibited outright and which are permitted under strict conditions.
-> 🧱 Rules honored: 4 operative clauses · verb-first · no "shall" · no country names inside clauses · every clause references autonomous weapons · sub-lettered like Ireland's praised section.
-> 🛡️ Armor: stands on A/79/88 recommendations ("new legally binding rules… prohibitions"), the Vienna chair points, and Res 79/62's own two-tier concept — nothing here is invention, everything is sourced.
+**Status:** FINAL — research-locked 8 Aug 2026. Every phrase traced to a live UN/ICRC source (proof map below).
+**Deadline reality:** sections were due Sun 9 Aug; you are on a personal grace extension from Singapore. Consolidated paper circulates 12 Aug. **Send the message below NOW.**
 
 ---
 
-## 1️⃣ PASTE-READY SECTION
+## 1. THE MESSAGE — copy this exact block into the sponsor GC
 
 ```
+🇲🇦 Morocco — two-tier section, ready. This is the spine clause: it sets where the prohibition line falls and how everything else is regulated, so every other section hangs off it.
+
 Section: The Two-Tier Approach — Prohibitions and Regulations
 Submitted by: Kingdom of Morocco 🇲🇦
 
-Preambulatory Clause (optional — Ireland's section set the precedent):
+Preambulatory clause (optional): Guided by the principle that responsibility and accountability for decisions on the use of force must be retained by humans and cannot be transferred to machines, and noting the broad convergence around a two-tier approach to autonomous weapons systems,
 
-Guided by the principle that responsibility and accountability for decisions
-on the use of force must be retained by humans, and cannot be transferred
-to machines,
-
-Operative Clauses:
-
-1. Calls for the development of an international framework on autonomous
-   weapons systems structured in two tiers, distinguishing between systems
-   whose design precludes lawful use and systems capable of lawful use
-   under strict conditions;
-
-2. Urges that the first tier prohibit autonomous weapons systems which,
-   by reason of their design, cannot be operated in compliance with
-   international humanitarian law, including:
+1. Urges the development of an international framework on autonomous weapons systems structured in two tiers, under which autonomous weapons systems that cannot be used in accordance with international law are prohibited and all others are regulated under binding conditions;
+2. Calls upon all States to prohibit, under the first tier, autonomous weapons systems which by reason of their design cannot be used in compliance with international humanitarian law, including:
    a. systems that cannot be subject to meaningful human control;
-   b. systems that select and apply force against human targets without
-      a human decision over individual engagements;
-   c. systems whose effects cannot be sufficiently predicted, limited or
-      explained to permit lawful deployment;
+   b. systems designed or used to select and apply force against human targets without a human decision on each engagement;
+   c. systems whose effects cannot be reliably predicted, limited or explained;
+3. Recommends that all autonomous weapons systems not prohibited under the first tier be permitted only where the following binding conditions secure their lawful use:
+   a. legal review against shared international criteria prior to deployment and following any modification affecting system behaviour;
+   b. continuous human capacity to intervene in, or deactivate, the system at any point during an engagement;
+   c. the recording of engagement data sufficient to reconstruct the circumstances of any use of force;
+4. Encourages the periodic review of the placement of autonomous weapons systems within each tier, informed by verified testing, evaluation and operational data, so that the distinction reflects demonstrated system behaviour rather than technological labels.
 
-3. Recommends that the second tier permit autonomous weapons systems only
-   where lawful use is secured through binding conditions, including:
-   a. legal review against shared international criteria prior to
-      deployment and following any modification affecting system behaviour;
-   b. continuous human capacity to intervene in, or terminate, an engagement;
-   c. recording of engagement data sufficient to reconstruct the
-      circumstances of any use of force;
-
-4. Requests the periodic review of the placement of autonomous weapons
-   systems within each tier, informed by verified testing and operational
-   data, so that the distinction reflects demonstrated system behaviour
-   rather than technological labels.
+Happy to sync with Singapore so the scope/definition clauses and this one interlock cleanly. Defending this section on the floor. 🇲🇦
 ```
+
+**Why the flag sits there (and not inside the clauses):** Singapore's own rule — *"don't name your own country inside the clause; the sponsor list records authorship."* So Morocco's identity lives in the **byline** and the **sponsor roster**. One line to Singapore and the flag rides through the whole consolidated paper (DM text in §4).
 
 ---
 
-## 2️⃣ WHY EACH CLAUSE SURVIVES (source spine)
+## 2. FORMAT COMPLIANCE — passes Singapore's rules, every single one
 
-| Clause | Concept | Verification |
-|---|---|---|
-| PP | Human responsibility retained; non-transferable accountability | A/79/88 Rec (b), verbatim family: [PDF](https://documents.un.org/doc/undoc/gen/n24/154/32/pdf/n2415432.pdf) |
-| OP1 | Two-tier framework | Res 79/62 analysis contemplates two-tiered prohibition/regulation: [ASIL](https://www.asil.org/insights/volume/29/issue/1); A/79/88 Rec (a): binding rules "are needed" |
-| OP2(a) | Systems that cannot be controlled → prohibit | African Group (Nov 2023): "direct, meaningful control and supervision of humans at all times": [profile](https://automatedresearch.org/news/state_position/morocco/) |
-| OP2(b) | Anti-personnel without human decision → prohibit | Morocco HRC 30 May 2013 ("right to determine the life of human beings"); SG: targeting humans by machines "a moral line that must not be crossed"; A/79/88 recs: "prohibitions on weapons systems that would target people" |
-| OP2(c) | Unpredictable/unexplainable → prohibit | Vienna chair points in A/79/88: systems "cannot be adequately understood or limited… would not be compatible with legal use" |
-| OP3(a) | Shared-criteria reviews + re-review after modification | DoDD 3000.09 §1.2 testing/verification model: [DoD PDF](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/300009p.pdf); Angola/Finland/Netherlands sections supply mechanics |
-| OP3(b) | Intervene/terminate | DoDD 3000.09 §1.2.a(1)(b): "terminate the engagement or obtain additional operator input before continuing" |
-| OP3(c) | Engagement records | Feeds Italy's attribution section (Mod 12); A/79/88 ¶44 risk catalogue |
-| OP4 | Behavior-based tier line | ICRC "critical functions" doctrine = define the act, not the algorithm (continuity with Mod 22 speech) |
+| Rule (her words, verbatim) | This section |
+|---|---|
+| Two to four operative clauses | **4 operative clauses** ✓ |
+| Begin with the verb — Recommends, Urges, Calls upon, Encourages, Requests | **Urges · Calls upon · Recommends · Encourages** — four different verbs, all from her list ✓ |
+| Never "shall" — the GA recommends, it does not oblige | **Zero "shall."** Highest register used: "Calls upon" ✓ |
+| Every clause must refer to autonomous weapons specifically | **Clauses 1, 2, 3, 4 each name "autonomous weapons systems" in the operative line** ✓ |
+| Don't name your own country inside the clause | **"Morocco" appears only in the byline** ✓ |
+| Morocco defines where the two-tier line falls | **Clause 2 = the line. Clause 3 = the conditions. Clause 4 = the mover.** ✓ |
 
-## 3️⃣ FLOOR Q&A FOR THE SECTION (sponsors defend their own)
+---
 
-1. **"This bans defensive CIWS/C-RAM that save lives."** → "Tier one reaches systems that *cannot* be controlled and systems engaging human targets without a human decision. Counter-materiel defences are assessed under the same criteria, with narrow written exclusions. We negotiate the edges — the exception must never be a loophole."
-2. **"Who places a system in a tier — a committee of winners?"** → "Clause 3(a): national legal review against *shared international criteria*, re-run after any behavioural modification. Judgment through criteria, not through unilateral labels."
-3. **"Prohibition without the P5 is symbolism."** → "The Secretary-General's report recommends exactly prohibitions and regulations. A two-tier recommendation standardizes national measures today and hands Geneva a finished architecture rather than a blank page."
-4. **"2(b) requires a human per target — operationally absurd in saturation defence."** → "It addresses systems that apply force *against human targets without a human decision* — the African Group's 'control at all times' standard. Counter-materiel profiles sit outside the prohibited class and are handled by the exclusion language."
-5. **"Duplicates Cuba's control / Ireland's review sections."** → "This clause is the structure; theirs is the substance. Cuba defines control, Ireland strengthens reviews — the spine decides which systems must submit to either."
-6. **"Morocco operates armed drones."** → "And tier two was written by a state flying under it daily. The prohibition tier addresses design classes, not fleets. Operability is the design constraint, not the obstacle."
+## 3. PROOF MAP — every phrase → its live source (use these in floor defense)
 
-## 4️⃣ COORDINATION (send as DMs to guard against overlap)
+**Preamble**
+- *"accountability… cannot be transferred to machines"* — SG Report **A/79/88, ¶32**: states emphasized humans retained responsibility and accountability *"and that that accountability could not be transferred to machines;"* mirrored in **GGE rolling text 18 Dec 2025, §V.1** ("responsibility and accountability cannot be transferred to machines").
+  → https://documents.un.org/doc/undoc/gen/n24/154/32/pdf/n2415432.pdf
+  → https://reachingcriticalwill.org/images/documents/Disarmament-fora/ccw/2026/gge/documents/rolling-text-18dec25.pdf
+- *"broad convergence around a two-tier approach"* — **A/79/88 ¶54**: "convergence around the two-tier approach" listed among the GGE's most notable achievements; **¶68**: *"Many States expressed support for the two-tier approach."* (same PDF)
 
-- **→ Singapore:** tier language mirrors the scope clauses; alignment flag, not collision.
-- **→ Cuba:** 3(a–c) is the enforcement wrapper for MHC substance.
-- **→ Italy:** 3(c) records = data layer for attribution clauses.
-- **→ Ireland:** 3(a) shared-criteria review pairs with strengthened Art 36 + periodic reporting.
+**Clause 1 — the architecture**
+- **A/79/88 ¶68**: systems *"that could not be used in accordance with international law should be prohibited, while others should be appropriately regulated"* — clause 1 is this sentence in operative form.
+- **A/79/88 ¶71**: the Secretary-General's call to conclude, **by 2026**, an instrument prohibiting systems that function without human control and regulating all other types. Also the **Oct 2023 joint call by the SG and the ICRC President** (same ¶71).
+- **ICRC**: *"This two-tiered approach aligns with the ICRC's recommendation to prohibit autonomous weapons that are unpredictable and those designed or used to target humans… and to strictly regulate the design and use of all other autonomous weapons."* → https://www.icrc.org/en/document/icrc-autonomous-adopt-new-rules
 
-## 🗂️ FORMATTING COMPLIANCE CHECK ✅
-Verb-first (Calls / Urges / Recommends / Requests) ✅ · no "shall" ✅ · no own-country names inside clauses ✅ · "autonomous weapons systems" in OP1/OP2/OP3 header and OP4 ✅ · 4 operative clauses (within 2–4) ✅ · sub-letters ✅ · no invented brands ✅
+**Clause 2 — the prohibition line (prongs trace to ¶75–77)**
+- (a) *cannot be subject to meaningful human control* — **¶75**: states called to prohibit systems *"operating completely outside human control."* African Group (Nov 2023, Morocco endorsed): LAWS must remain under *"direct, meaningful control and supervision of humans at all times."* → https://automatedresearch.org/news/state_position/morocco/
+- (b) *designed or used to select and apply force against human targets* — **¶77**: states called for prohibiting systems *"designed to target humans directly;"* ICRC: *"designed or used to target humans."* The qualifier *"without a human decision on each engagement"* keeps human-commanded systems lawful — deliberately.
+- (c) *cannot be reliably predicted, limited or explained* — **¶76**: prohibited characteristics include effects *"that could not be reliably predicted, anticipated, understood or explained"* and *"not be limited and controlled;"* GGE rolling text **§III.2**: prohibited if effects *"cannot be anticipated and limited."*
+
+**Clause 3 — the binding conditions (prongs trace to ¶37–38, ¶80–82)**
+- (a) *legal review against shared international criteria* — **A/79/88 ¶37**: *"legal reviews were insufficient on their own… specific rules were required;"* **¶38**: *"no provision governing how legal reviews should be conducted and no requirement to publicize the outcome"* — the exact gap this prong closes. Mirrors GGE rolling text §IV.1–2.
+- (b) *continuous human capacity to intervene or deactivate* — **¶80**: ensure *"retention of human control… at all times;"* ¶13 ("interrupt or deactivate the system"); GGE rolling text §III.7.D (timely deactivation).
+- (c) *recording of engagement data* — **¶33**: accountability *"required those authorizing the use of force to be able to predict and explain its effects;"* **¶82**: proposed *"registration, tracking and analysis."* Feeds Italy's attribution clauses and Sri Lanka's incident reporting.
+
+**Clause 4 — the living line**
+- **¶14**: *"tested, evaluated, validated and verified;"* GGE rolling text §IV.4.A (realistic testing and evaluation). *"Demonstrated behaviour rather than technological labels"* = the anti-loophole engine; pairs with Finland's TEVV section and the Netherlands' verification.
+
+**Floor rule:** describe the text, cite the document (A/79/88, GGE rolling text, ICRC) — never quote paragraph numbers from memory in the room.
+
+---
+
+## 4. THE DMs — send right after the GC post (order matters)
+
+**To Singapore (owner) — scope interlock + flag:**
+> Singapore — Morocco's two-tier section is in the GC. One sync point: my clause 1 says "autonomous weapons systems that cannot be used in accordance with international law," so your definition/scope clauses set the boundary my tiers operate on. Want them to interlock word-for-word — send me your final scope wording and I'll align. Also: can the sponsor list and section header read "Kingdom of Morocco 🇲🇦"? Want the delegation name showing full and formal in the consolidated paper. 🇲🇦
+
+**To Cuba — complement, not repeat:**
+> Quick coord: your MHC clauses define the standard of control; my section sets the structure it lives in — 2(a) prohibits systems that can't be meaningfully controlled at all, and 3(b) makes intervention capacity a binding license condition for everything else. Same wall, two bricks. If anyone on the floor tries to play our sections against each other: mine is the frame, yours is the substance. Deal? 🇲🇦🤝🇨🇺
+
+**To Ireland — reviews pairing:**
+> Ireland — pairing our sections: you strengthen Article 36 and the Dublin precedent; my 3(a) requires legal review against shared international criteria. When they ask "reviewed against what?", your clauses answer; when they ask "where do reviews sit in the structure?", mine does. I'll cite your section when I'm defending 3(a) — same for you if the two-tier comes up? 🇲🇦🤝🇮🇪
+
+**To Italy — data for attribution:**
+> Italy — your attribution clauses need a data layer to bite. My 3(c) makes recording engagement data a binding condition of tier two — no record, no lawful deployment. Your attribution machinery gets fed by my clause; my recordings exist to be attributed. Defending mine as the other half of yours on the floor. 🇲🇦🤝🇮🇹
+
+---
+
+## 5. FLOOR DEFENSE — you present this section under questioning (memorize the shape, not the script)
+
+**Q1. "The two-tier idea is just repackaging. What's new?"**
+Repackaging is exactly what was missing. The Secretary-General's report records convergence around the two-tier approach as one of the GGE's most notable achievements — twelve years of convergence with no clause that says where the line falls. Everyone agreed on the shape of the door; nobody built the door. This section is the door.
+
+**Q2. "Who decides which system lands in tier one — you?"**
+No — clause 3(a): placement follows legal review against *shared international criteria*, and clause 4 re-reviews placements on verified testing and operational data. Evidence places a system, not politics, and the placement can move when the evidence moves. The SG's report already lists the characteristics states use — unpredictability, effects that can't be limited, systems outside human control, systems designed to target humans.
+
+**Q3. "This bans defensive systems like CIWS."**
+Read the tripwires. A system fails tier one only if it *cannot* be meaningfully controlled, kills humans without a human decision on each engagement, or produces effects that can't be predicted, limited or explained. A defensive system engaging munitions inside human-set parameters, under human supervision, with a record, fails none of them. Tier two exists precisely so legitimate defence keeps operating — under licence conditions. Morocco operates unmanned systems; we wrote tier two so lawful operators keep operating.
+
+**Q4. "Prong 2(b) — hypocrisy. Morocco flies armed drones."**
+2(b) prohibits the *machine* deciding, on its own, to apply force to a human. A human-commanded system — where a human decides each engagement — is tier two, and we accept tier two's price for ourselves: review, intervention capacity, recording. That's not hypocrisy; that is a state writing rules for a capability it actually fields. Unarmed delegations propose theory. Operators propose rules that work.
+
+**Q5. "Why here? Leave it to the GGE."**
+Twelve years, no instrument. The Secretary-General and the ICRC President jointly called on states to conclude prohibitions and regulations by 2026 — this is 2026. The General Assembly has every standing to act; its own report lists a GA-track as one of the options states have already put on the record. This paper doesn't compete with Geneva — it gives Geneva the political floor to stand on.
+
+**Q6. "Doesn't this duplicate Cuba / Ireland / Italy?"**
+Cuba defines the standard of control. Ireland strengthens reviews. Italy builds attribution. None of them say where the prohibition line falls or what licence conditions everything else operates under — that is this section. Our clause 3 is explicitly built to host theirs: 3(a) is where Ireland's reviews sit, 3(b) is where Cuba's control bites, 3(c) is where Italy's data comes from. Remove this section and their clauses float.
+
+**ALGERIA DAGGER (if thrown): "Will Morocco submit its own systems to this?"**
+Clause 4 applies to everyone — including us. Tier review on verified data, behavioural not political. We didn't write a fence around Morocco; we wrote a fence around the trigger. Any delegation is welcome to test us against our own clause.
+
+---
+
+## 6. YOUR ACTION CHECKLIST — in order, today
+
+1. **NOW:** copy §1 into the sponsor GC. (You are past the Sun 9 Aug deadline on a grace extension — every hour of silence reads as drift, and Singapore already warned people get poached from drifting blocs.)
+2. **Next 10 min:** send the four DMs from §4 — Singapore first (scope + flag), then Cuba, Ireland, Italy.
+3. **Ask Singapore to lock the byline:** "Kingdom of Morocco 🇲🇦" in the roster and the section header. That is where your identity rides in the consolidated paper.
+4. **Memorize §5** — Q1, Q3, Q4 cold. You defend this section yourself during questioning on the floor.
+5. **Watch the GC tonight:** reply fast to anything about your section. Ownership questions get answered by you, not by whoever types first.
+6. **12 Aug:** when the consolidated paper circulates, check your clauses survived verbatim — verbs, three prongs in clause 2, three conditions in clause 3. If anyone edited the tripwires, flag it immediately.
+7. **Then:** back to speeches — GSL seeds this ("three commitments" = your clause 3), Mod 22 (definition) precedes your section in debate, Mod 1 rides on clause 3(a).
+
+*— war council out 🇲🇦*
