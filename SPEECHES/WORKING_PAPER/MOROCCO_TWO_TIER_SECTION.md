@@ -1,35 +1,45 @@
 # 🇲🇦 MOROCCO — THE TWO-TIER SECTION (FINAL SEND VERSION)
 
-**Status:** FINAL — research-locked 8 Aug 2026. Every phrase traced to a live UN/ICRC source (proof map below).
+**Status:** FINAL v2 — research-locked 8 Aug 2026, house-style matched to the sponsor GC template (hook/Section/Portfolio). Every phrase traced to a live UN/ICRC source (proof map below).
 **Deadline reality:** sections were due Sun 9 Aug; you are on a personal grace extension from Singapore. Consolidated paper circulates 12 Aug. **Send the message below NOW.**
 
 ---
 
 ## 1. THE MESSAGE — copy this exact block into the sponsor GC
 
+*(House-style matched to the sponsor template: hook → Section → Portfolio + flag → preambular → 4 clauses.)*
+
 ```
-🇲🇦 Morocco — two-tier section, ready. This is the spine clause: it sets where the prohibition line falls and how everything else is regulated, so every other section hangs off it.
+Who answers when a weapon selects its own target — and fires?
+Twelve years of debate. Still no binding rule. Still no one who answers.
+This section draws the line the whole paper stands on: what is prohibited, and what is regulated.
 
 Section: The Two-Tier Approach — Prohibitions and Regulations
-Submitted by: Kingdom of Morocco 🇲🇦
+Portfolio: Kingdom of Morocco 🇲🇦
 
-Preambulatory clause (optional): Guided by the principle that responsibility and accountability for decisions on the use of force must be retained by humans and cannot be transferred to machines, and noting the broad convergence around a two-tier approach to autonomous weapons systems,
+Preambulatory Clause: Guided by the principle that responsibility and accountability for decisions on the use of force must be retained by humans and cannot be transferred to machines, and noting the broad convergence around a two-tier approach to autonomous weapons systems;
 
-1. Urges the development of an international framework on autonomous weapons systems structured in two tiers, under which autonomous weapons systems that cannot be used in accordance with international law are prohibited and all others are regulated under binding conditions;
+1. Urges the development of an international framework on autonomous weapons systems structured in two tiers, under which autonomous weapons systems that cannot be used in accordance with international law are prohibited, and all others are regulated under binding conditions;
 2. Calls upon all States to prohibit, under the first tier, autonomous weapons systems which by reason of their design cannot be used in compliance with international humanitarian law, including:
    a. systems that cannot be subject to meaningful human control;
    b. systems designed or used to select and apply force against human targets without a human decision on each engagement;
    c. systems whose effects cannot be reliably predicted, limited or explained;
-3. Recommends that all autonomous weapons systems not prohibited under the first tier be permitted only where the following binding conditions secure their lawful use:
+3. Recommends that all autonomous weapons systems not prohibited under the first tier be permitted only where binding conditions secure their lawful use, including:
    a. legal review against shared international criteria prior to deployment and following any modification affecting system behaviour;
    b. continuous human capacity to intervene in, or deactivate, the system at any point during an engagement;
    c. the recording of engagement data sufficient to reconstruct the circumstances of any use of force;
 4. Encourages the periodic review of the placement of autonomous weapons systems within each tier, informed by verified testing, evaluation and operational data, so that the distinction reflects demonstrated system behaviour rather than technological labels.
 
-Happy to sync with Singapore so the scope/definition clauses and this one interlock cleanly. Defending this section on the floor. 🇲🇦
+Ready to defend every line of this on the floor. 🇲🇦
 ```
 
-**Why the flag sits there (and not inside the clauses):** Singapore's own rule — *"don't name your own country inside the clause; the sponsor list records authorship."* So Morocco's identity lives in the **byline** and the **sponsor roster**. One line to Singapore and the flag rides through the whole consolidated paper (DM text in §4).
+**Why the flag sits there (and not inside the clauses):** Singapore's own rule — *"don't name your own country inside the clause; the sponsor list records authorship."* So Morocco's identity lives in the **Portfolio line** and the **sponsor roster**. One DM to Singapore and "Kingdom of Morocco 🇲🇦" rides through the whole consolidated paper (text in §4).
+
+**Why this out-classes the template:**
+- **Hook with a spine:** their preamb is a question that floats; ours escalates hook → fact ("twelve years, no binding rule") → names the section's job. Every other section then reads as a module bolted onto OUR frame.
+- **Hook + real preambular:** we carry both — a chair-friendly hook and a genuine UNGA preambular (Guided by…noting…) traceable to A/79/88 ¶32/¶54. Legitimacy the question-only entries don't have.
+- **Tripwires, not vibes:** clause 2's three prongs are sourced categories (SG report ¶75–77, ICRC) — placement is provable, not opinion.
+- **The closer:** *"demonstrated system behaviour rather than technological labels"* — the anti-loophole engine. Judges and sponsors remember the last line; nobody else's section ends with a mechanism.
 
 ---
 
