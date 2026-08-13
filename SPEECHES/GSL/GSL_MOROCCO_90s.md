@@ -1,27 +1,27 @@
-# 🇲🇦 GSL — MOROCCO · v17 FINAL — THE REFERENCE BUILD (fragment style, max aggression)
+# 🇲🇦 GSL — MOROCCO · v18 FINAL — THE SOIL-TO-CHOICE BUILD (fully original, max aggression)
 
-**At a glance:** register fused from delegate's proven reference GSL — cinematics built from UN documents, fragment hammers, time anchors, nameless-accusation knife · full protocol salutation · ≈90s at 162 wpm · every load-bearing fragment traceable (manifest) · salutation swaps: *"Honourable Chair, esteemed judges, distinguished delegates"* (default) · v13–v16 archived in git history.
+**At a glance:** fully original architecture (zero phrases shared with any reference speech) · land → silence → question → operator's terms → clock → choice · full protocol salutation · **≈90s** at 162–165 wpm with strict-chair variants · every load-bearing line traceable (manifest) · salutation swap if the dais is EB-style: *"Members of the Executive Board, distinguished delegates."*
 
-**Reading code:** *italics* = glide, narrative voice · **bold** = hammer, land it · [PAUSE] = one full breath, twice only.
+**Reading code:** **bold** = hammer · *italics* = glide · [PAUSE] = one full breath (two only).
 
 ---
 
 ## THE SPEECH
 
 <!-- SPEECH-START -->
-*Fire. Forget. Find.* Three words out of a United Nations report — a weapon built to hunt without asking anyone. The first reported autonomous engagement sits on that record. **Unresolved.**
+Honourable Chair, esteemed judges, distinguished delegates — *the first reported autonomous engagement happened on African soil:* a weapon designed to **fire, forget, and find.** The United Nations recorded it. **No law governed it. No one answered.**
 
-Honourable Chair, esteemed judges, distinguished delegates — *look at this record.* Twelve years of talking — **no instrument, no standard, no name.** One hundred seventy-five states bound to review new weapons — **twelve to fifteen known to do it. Zero required to publish.** Three flags voted against even speaking — **they know who they are.** [PAUSE]
+One hundred seventy-five states must review new weapons. Twelve to fifteen are known to do it. **None must publish what they find.**
 
-Morocco knows this file twice over: **operator of unmanned systems — under human command. One of twenty-nine sponsors — four continents — one architecture.** We came with machinery: **binding human control, because a safeguard that can be withdrawn is no safeguard; reviews against shared criteria, because self-assessment is not oversight; recorded engagements, because accountability without a record is an assertion, not a mechanism.**
+Delegations insist existing law suffices. Answer three questions here: **the rule that guarantees meaningful human control; the standard that defines how much control is enough; the mechanism that identifies who answers when that control fails.** [PAUSE] Twelve years. No names. "Sufficient" is a bet that the question never gets asked.
 
-The Secretary-General and the Red Cross asked the world to finish this **by 2026.** *It is 2026.* Days after this committee rises, Geneva meets for its final scheduled session on this file. We hand them a position — **or an apology.**
+Morocco speaks as an operator, not a spectator — *we fly these systems under human command,* and bind our own fleet to the text twenty-nine delegations sponsor: **binding meaningful human control, because a safeguard that can be withdrawn is no safeguard; reviews on shared criteria, because self-assessment is not oversight; recorded engagements, because accountability without a record is an assertion, not a mechanism.**
 
-*If these safeguards already exist, codify them. If they do not, this committee must.* The principle is one sentence long: **the decision to use lethal force must remain under meaningful human control.** [PAUSE]
+The Secretary-General and the Red Cross asked: **finish by 2026. It is 2026.** Days after we rise, Geneva holds its final scheduled session on this file. We send a position — **or an excuse.**
 
-*The technology did not wait twelve years. Responsibility will not wait one more.*
+**If these safeguards already exist, codify them. If they do not, this committee must. The principle is one sentence long: the decision to use lethal force must remain under meaningful human control.** [PAUSE]
 
-Morocco has chosen — **to build. Who builds with us?**
+Morocco has chosen. *Add your name.*
 <!-- SPEECH-END -->
 
 ---
@@ -30,79 +30,78 @@ Morocco has chosen — **to build. Who builds with us?**
 
 | Beat | Lines | How |
 |---|---|---|
-| CINEMATIC OPEN | "Fire. Forget. Find." | Three flat words, slow, almost bored. Then explain: this is THEIR report. "Unresolved." — drop voice, let it hang. |
-| PROTOCOL → VOLLEY | salutation → "look at this record" → three fragments | Salutation crisp, then point at the room on "look." Each fragment harder than the last. "Zero required to publish" — dead level. |
-| THE KNIFE | "Three flags voted against even speaking — they know who they are." | Slow. Sweep the room with your eyes WITHOUT landing on anyone. The delegates check their own allies. [PAUSE] here — let the paranoia work. |
-| IDENTITY + MACHINERY | "twice over… twenty-nine sponsors… because…" | Chin up on "operator." "Twenty-nine" said like weather. The three because-trails accelerate like a drumline, end cold on "mechanism." |
-| THE CLOCK | "by 2026. It is 2026." → "position — or an apology." | "It is 2026" — smallest voice in the speech. Fork line: both options read at equal speed. The room picks. |
-| LOCKED CLOSE | codify/must → principle → aphorism → build | Principle = slowest line. Aphorism glides (italics). Final question straight at the swing wall. Hold one second. **Sit mid-silence.** |
+| THE LAND | salutation → "African soil" → "No one answered." | Salutation crisp. "It happened on African soil" — slow, this is ours. "fire, forget, and find" flat. **"No one answered" — near-whisper, dead level.** |
+| THE SILENCE | "175… 12–15… None must publish." | Pure numbers, clipped cadence. "None must publish" — land it like a gavel. |
+| THE QUESTION | three questions → "Twelve years. No names." | Finger-count. [PAUSE] one breath. "a bet that the question never gets asked" — said like you've already seen their hand. |
+| THE OPERATOR'S TERMS | "operator, not a spectator" → fleet → three trails | Chin up on "we fly." **"we bind our own fleet" = the hypocrisy-killer — say it to whoever will throw the drone charge.** Trails roll like verdicts. |
+| THE CLOCK | "finish by 2026. It is 2026." → "position — or an excuse." | "It is 2026" — smallest voice in the speech. Fork line even-paced both sides. The room chooses. |
+| THE CHOICE | codify/must → principle → "Add your name." | Principle = slowest line. "Add your name" = pointed, recruiting, committee-register (it's sponsorship language — a challenge, not a plea). Sit mid-silence. |
 
-**Pace:** 241 words ÷ 162 wpm ≈ 89s + two breaths ≈ 91s. Fragments self-pace — trust them.---
+---
 
 ## CLOCK INSURANCE
 
-- **Strict ~85s chair:** delete "Days after this committee rises… or an apology." (−21) → ≈ 82s.
-- **Catastrophic 60s version:** open ("Fire. Forget. Find… Unresolved.") → volley minus roll-call fragment → machinery with compressed trails ("…each because a claimed safety must be checkable") → locked close → build line. ≈ 64s.
-- **Optional insert (+18, use only if a sufficiency/US-aligned speaker just sat):** after the knife — *"Even Washington's own directive demands 'appropriate levels of human judgment over the use of force.' Doctrine at home; premature here? Ask them."*
-- **Forbidden cuts, always:** "Fire. Forget. Find.", the three fragments, the because-trails, the principle sentence, "Who builds with us?"
+- **Strict ~85s chair:** delete "Days after we rise, Geneva holds its final scheduled session on this file. We send them a position — or an excuse." (−21) → ≈ 84s. The 2026 clock alone still lands.
+- **Catastrophic 60s:** the Land → the Silence → the Question (keep "No names") → terms with trails compressed to *"each because a claimed safety must be checkable"* (−24) → the Choice. ≈ 63s.
+- **Optional insert (+27, only if a sufficiency/US-aligned speaker just sat):** after the Silence — *"Even Washington's own directive demands 'appropriate levels of human judgment over the use of force.' Doctrine at home — premature here?"*
+- **Forbidden cuts, always:** African-soil opener, the three questions, the because-trails, "Add your name."
 
 ---
 
 ## POI DEFENSE — six executions + the dagger
 
-**Q1. "Name the three flags, if you dare."**
-I don't need daring — the Assembly's voting record is public: Belarus, the DPRK, Russia voted no. I gave them silence in my speech because the record speaks louder than my list. The delegate may read the journal; 166 states voted to keep talking. Three didn't.
+**Q1. "Your 'African soil' case is disputed — casualties unconfirmed, maker denies autonomy."**
+Precisely why I said *reported*, and why the case is *unresolved*. A UN Panel of Experts recorded a weapon built to fire, forget and find, hunting retreating forces in Libya. Strip it to its weakest reading and one fact still stands: no law required a human decision that day. The weakest reading opens this speech because it already proves the gap.
 
-**Q2. "The Libya case is disputed — casualties unconfirmed, the maker denies autonomy."**
-Which is why I said *reported*, and why the word on the record is *unresolved*. The Panel of Experts wrote it down: hunted, engaged, built to fire, forget and find. Even stripped to its weakest reading — nothing required a human decision that day. The weakest reading already proves the gap.
+**Q2. "Nobody owes your 2026 calendar."**
+Not mine. The Secretary-General called to conclude prohibitions and regulations by 2026 — and the joint appeal with the President of the Red Cross said the same. It is written in the Secretary-General's report to this Assembly. I am not inventing the clock, delegate. I am reading it aloud — in 2026.
 
-**Q3. "Twelve years is theatrical counting. Serious work started later."**
-Count from the first dedicated CCW meeting: twelve years. From the Human Rights Council debate: thirteen. Pick the delegate's favourite calendar — every version ends in the same inventory: no instrument, no standard, no published determination. Argue the birthday; the silence is unambiguous.
+**Q3. "Twelve years is theatrical. Serious negotiation began later."**
+Count from the first dedicated CCW meeting, 2014: twelve. From the Human Rights Council debate: thirteen. Every calendar ends in the same inventory: no instrument, no standard, no published determination. Argue the birthday — the silence is unambiguous.
 
-**Q4. "You invented the 2026 deadline — nobody owes your calendar."**
-Not mine — the Secretary-General's call and the joint appeal with the President of the Red Cross: prohibitions and regulations concluded by 2026. It is recorded in the Secretary-General's own report to this Assembly. I am not inventing the clock, delegate. I am reading it aloud.
+**Q4. "Morocco buys drones. A buyer writes rules now?"**
+An operator writes them. We fly these systems under human command — and we wrote binding conditions we accept for our own fleet: review on shared criteria, intervention capacity, engagement records. Delegations holding only theory write fear. Twenty-nine sponsors chose the architecture of a state that actually flies.
 
-**Q5. "Morocco buys drones. What standing does a buyer have to write rules?"**
-Operator standing — and author standing. We fly these systems under human command, and our clauses bind our own fleets: shared-criteria review, intervention capacity, engagement records. Delegations holding only theory write fear. Twenty-nine sponsors chose the architecture of an operator instead.
+**Q5. "Ban or no ban — one word."**
+Two tiers. Systems no human can control, that select humans without a human decision, that cannot be predicted or explained — prohibited. All others — lawful, under binding conditions. We oppose no technology. We oppose a silence in the law exactly where a name should be.
 
-**Q6. "So is Morocco for a ban or against it? One word."**
-Two tiers. Weapons no human can control, that kill humans without a human decision, that cannot be predicted or explained — prohibited. Everything else — lawful, under binding conditions. We oppose no technology. We oppose a silence in the law exactly where a name should be.
+**Q6. "Your review numbers — states do review; you exaggerate the gap."**
+As of February 2026: 175 states are parties, and only seventeen have published even *how* they would review — not one publishes the determination itself. I said "known," I said "must publish" — words chosen with a drafter's care. If the delegate holds a published review of an autonomous weapon, the floor would love to see it. No one ever has.
 
-**ALGERIA DAGGER:** *"Every clause Morocco sponsors binds Morocco first — we wrote no fence around ourselves. Test us against our own text."* One line. Never bilateral. Sit.
+**ALGERIA DAGGER:** *"We bind our own fleet in our own text — Morocco wrote no fence around itself. Test us against our clauses."* One line. Never bilateral. Sit.
 
 ---
 
 ## SWAP LINES
 
-- If the chair frowns at repeated "build": close = *"Morocco has chosen. Who is with us?"* (v16 variant, locked-equivalent).
-- If the roll-call must be NAMED (tiny room, aggressive mood): *"Three flags voted against even speaking — Belarus, the DPRK, Russia. The minutes remember."*
-- If a bloc brand emerges in the consolidated paper: swap "one architecture" for the brand — never invent one yourself (house rule).
+- Final recruit swap (if "Add your name" lands cold): *"Morocco has chosen. The file is open."* — points at sponsorship without asking aloud.
+- If flags must be named (small hostile room): insert after the Silence — *"Three states even voted against speaking: Belarus, the DPRK, Russia."* (+13; rebalance with insurance level 1.)
+- If a bloc brand emerges in the consolidated paper: never invent one — attach to the existing paper name only.
 
 ---
 
 ## PROOF MANIFEST — live-checked 8 Aug 2026
 
-1. **"Fire. Forget. Find" opener** — UN Panel of Experts on Libya, **S/2021/229 ¶63**: *"hunted down and remotely engaged by lethal autonomous weapons systems such as the STM Kargu-2;"* *"programmed to attack targets without requiring data connectivity between the operator and the munition: in effect, a true 'fire, forget and find' capability."* Casualties unconfirmed; maker disputes → speech says "**built to**… without asking" + "**first reported**" + "**unresolved**" only. → https://undocs.org/S/2021/229
-2. **"Twelve years… no instrument, no standard, no name"** — first CCW Informal Meeting of Experts on LAWS, 13–16 May 2014 → https://www.justsecurity.org/10518/autonomous-weapons-intergovernmental-meeting/ · no instrument: SG report A/79/88 ¶21 → https://documents.un.org/doc/undoc/gen/n24/154/32/pdf/n2415432.pdf
-3. **"175 bound — 12–15 known — zero must publish"** — Leupold (Feb 2026: 175 parties, 17 publish process) → https://leupoldlegal.com/weapon-review-article-36-ap-i/ · SIPRI (12–15 mechanisms; no standards/oversight) → https://www.sipri.org/sites/default/files/files/insight/SIPRIInsight1501.pdf · no publication duty: A/79/88 ¶38.
-4. **"Three flags voted no"** — UNGA Res **79/62**, 2 Dec 2024: 166–3–15; noes Belarus, DPRK, Russia → https://www.hrw.org/news/2024/12/05/killer-robots-un-vote-should-spur-treaty-negotiations (names reserved for POI Q1).
-5. **"finish this by 2026"** — A/79/88 **¶71**: the SG's call to conclude by 2026 an instrument prohibiting LAWS functioning without human control and regulating all others; also the **Oct 2023 joint SG–ICRC President call** (same ¶71). Same UN PDF.
-6. **"Geneva's final scheduled session"** — CCW GGE on LAWS, last scheduled 2026 session: 31 Aug–4 Sep 2026 (days after the 23–24 Aug conference), ahead of the Seventh Review Conference. → https://reachingcriticalwill.org/disarmament-fora/ccw/2026/gge/ · rolling text 18 Dec 2025 in §12 policy bank. *Floor phrasing: "final scheduled session under the current mandate."*
-7. **"twenty-nine sponsors, four continents"** — roster per owner (Singapore), 8 Aug 2026: Africa (Morocco, Angola, Kenya, Botswana, Tunisia), Asia (Singapore, Thailand, Vietnam, Sri Lanka, Bhutan, Iran, UAE), Europe (Portugal, Greece, Netherlands, Ireland, Serbia, Italy, Finland, Slovakia, Hungary, Czechia), Americas (Canada, Brazil, Venezuela, Mexico, Colombia, Cuba, Jamaica) = 29 across four continents ✓.
-8. **Operator credibility** — Morocco's TB2 fleet under human command (2021) → https://english.alarabiya.net/News/north-africa/2021/09/25/Morocco-gets-first-batch-of-Turkish-combat-drones-Report
-9. **Machinery & principle** = Morocco's approved two-tier section (SG-backed two-tier: A/79/88 ¶54/¶68). Full map: `SPEECHES/WORKING_PAPER/MOROCCO_TWO_TIER_SECTION.md`.
-10. **Washington insert** — DoDD 3000.09 §1.2.a verbatim → https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/300009p.pdf
+1. **African-soil opener** — UN Panel of Experts on Libya, **S/2021/229 ¶63** (Libya = African soil; "hunted down and remotely engaged" + "a true 'fire, forget and find' capability"). Speech says *reported / designed / unresolved* only. → https://undocs.org/S/2021/229
+2. **"No law governed it"** — SG report **A/79/88 ¶21**: no instrument specifically regulates LAWS. → https://documents.un.org/doc/undoc/gen/n24/154/32/pdf/n2415432.pdf
+3. **175 / 12–15 / none-must-publish** — Leupold (Feb 2026: 175 parties; 17 publish process; zero outcome publications) → https://leupoldlegal.com/weapon-review-article-36-ap-i/ · SIPRI (12–15 mechanisms; "no established standards," "beyond any kind of international oversight") → https://www.sipri.org/sites/default/files/files/insight/SIPRIInsight1501.pdf · publication duty absent: A/79/88 ¶38.
+4. **Three questions** — the sufficiency claim is on record at A/79/88 ¶72; its emptiness at ¶37–38. Same UN PDF.
+5. **"finish by 2026"** — A/79/88 **¶71**: the SG's by-2026 call + the Oct 2023 joint SG–ICRC President call.
+6. **Geneva's final scheduled session** — CCW GGE last scheduled 2026 session, 31 Aug–4 Sep, days after the 23–24 Aug conference → https://reachingcriticalwill.org/disarmament-fora/ccw/2026/gge/ (*floor phrasing: "final scheduled session under the current mandate"*).
+7. **Operator status** — Morocco's TB2 fleet under human command (2021) → https://english.alarabiya.net/News/north-africa/2021/09/25/Morocco-gets-first-batch-of-Turkish-combat-drones-Report
+8. **Twenty-nine sponsors / machinery** — bloc roster 8 Aug + Morocco's approved two-tier section (¶54/¶68 backbone). Map: `SPEECHES/WORKING_PAPER/MOROCCO_TWO_TIER_SECTION.md`.
+9. **Washington insert** — DoDD 3000.09 §1.2.a verbatim → https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/300009p.pdf
 
-**Floor rule:** fragments are fine to perform; numbers and documents must never be performed loosely. Describe, state, move on.
+**Floor rule:** perform fragments freely; perform *numbers* only as written.
 
 ---
 
 ## MOD MAP — what this GSL arms
 
-- **Mod 22:** "no standard" pre-loads the definition fight.
-- **Mod 1:** the 175/12–15/0 fragment = the full speech detonates there.
-- **Mod 21:** "fire, forget, and find" → Patriot: even supervised automation misreads intent.
+- **Mod 22:** "the rule that guarantees meaningful human control" pre-loads the definition fight.
+- **Mod 1:** the 175/12–15/0 Silence = the full detonation there.
+- **Mod 21:** "fire, forget, and find" → Patriot: even *supervised* automation misreads intent.
 - **Mod 12:** "recorded engagements" pre-builds Italy's attribution demand.
-- **POI Q1/Q4 recycle:** name-the-flags and the 2026-clock answers work in every mod.
+- **POI Q1/Q6 recycle:** the African-soil shield and the "publish one review" trap work everywhere.
 
 *— war council out 🇲🇦*
