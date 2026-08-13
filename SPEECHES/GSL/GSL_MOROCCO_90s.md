@@ -1,6 +1,6 @@
-# 🇲🇦 GSL — MOROCCO · v19 FINAL — THE FIGHT CARD (direct engagement build)
+# 🇲🇦 GSL — MOROCCO · v20 FINAL — THE KARGU STANDARD (96-second build)
 
-**At a glance:** direct portfolio confrontation — five delegations engaged by name, every punch receipted · POI invitation = floor-control scoring · full protocol salutation · **≈90s** at 162–165 wpm (strict-chair variants below) · every attack is a documented vote/doctrine/position, never a person · salutation swap for EB-style dais: *"Members of the Executive Board, distinguished delegates."*
+**At a glance:** incident-led GSL — the Kargu-2 record opens, documented camps get executed **without naming a single placard** (GSL-legal per your floor) · full protocol salutation · **≈96 seconds at 162–165 wpm** · every sentence traceable (manifest) · aggression through documents, never allegations · salutation swap for EB-style dais: *"Members of the Executive Board, distinguished delegates."*
 
 **Reading code:** **bold** = hammer · *italics* = glide · [PAUSE] = one breath (twice only).
 
@@ -9,21 +9,21 @@
 ## THE SPEECH
 
 <!-- SPEECH-START -->
-Honourable Chair, esteemed judges, distinguished delegates — *for twelve years this room mourned the gap. Today, I name its owners.*
+Honourable Chair, esteemed judges, distinguished delegates —
 
-**Delegate of the United States** — your own directive demands *"appropriate levels of human judgment over the use of force,"* yet calls binding law **"premature."** Doctrine or delay, delegate? *You cannot demand judgment at home and call it premature here.*
+*March 2020. Libya. African soil.* A retreating convoy — hunted by the **Kargu-2,** programmed to **fire, forget, and find,** needing no signal back to a human. The United Nations wrote it down: the first reported autonomous engagement in history. The casualties — unconfirmed. The responsible — unnamed. The law that governed the hunt — **none.** *That is what no law looks like.*
 
-**Delegates of Belarus, the DPRK and Russia** — one hundred sixty-six states voted to keep talking; you three voted for silence. Not against a treaty — **against conversation.** *A position that cannot survive talk will not survive the decade.*
+One hundred seventy-five states must review new weapons. Twelve to fifteen are known to do it. **None must publish what they find.**
 
-**Delegate of China** — you told Geneva: *ban the use, never the making.* Then sign our prohibition tier today — or tell this room **why the factory must stay dark.**
+This room divides three ways. Some call binding law **premature** — while their own doctrine insists on human judgment. Some voted against this Assembly **even speaking.** Some offer to ban the use — *never the making.* [PAUSE] Every one of them is counting on quiet rooms. **Deny them.**
 
-**Delegate of India** — no in 2023, abstain in 2024. *The room noticed the direction.* Take the last step today. And to every abstainer hiding behind balance — **abstention is a vote for the gap.**
+Morocco flies unmanned systems under human command — *and binds its own fleet to this committee's text:* **binding meaningful human control, because a safeguard that can be withdrawn is no safeguard; reviews on shared criteria, because self-assessment is not oversight; recorded engagements, because accountability without a record is an assertion, not a mechanism.**
 
-Morocco demands nothing it will not sign: *we fly unmanned systems under human command, and bind our own fleet to our own text* — twenty-nine delegations sponsor it: **binding human control; shared review criteria; recorded engagements.**
+The Secretary-General and the Red Cross asked: **finish by 2026. It is 2026.** Days after we rise, Geneva holds its final scheduled session on this file. We send a position — **or an excuse.**
 
 **If these safeguards already exist, codify them. If they do not, this committee must. The principle is one sentence long: the decision to use lethal force must remain under meaningful human control.** [PAUSE]
 
-Morocco has chosen. *Add your name.* **I welcome points of information — the named first.**
+Morocco has chosen. *Add your name.*
 <!-- SPEECH-END -->
 
 ---
@@ -32,66 +32,72 @@ Morocco has chosen. *Add your name.* **I welcome points of information — the n
 
 | Beat | Lines | How |
 |---|---|---|
-| DECLARATION | salutation → "Today, I name its owners" | Calm voice, absolute eye contact with the Dais. This sentence tells the judges: engagement is coming. |
-| FIGHT 1 — USA | doctrine quote vs "premature" | Quote = receipt-flat. "Doctrine or delay, delegate?" — **turn and face their placard.** The last line drops quiet. |
-| FIGHT 2 — the no-votes | "voted for silence… against conversation" | Slow roll of three names. "will not survive the decade" — flat facts, no theatre. |
-| FIGHT 3 — China | "ban the use, never the making" | The ask first ("sign our prohibition tier today") — pressure with a handshake inside. "stay dark" — even, heavy. |
-| FIGHT 4 — India + abstainers | "The room noticed the direction." | Warmer — this one is recruitment, not attack. Smile slightly on "take the last step today." Then cold on "vote for the gap." |
-| ARMOR — Morocco | operator + bind own fleet + 29 | Chin up. This is hypocrisy insurance — say it like a signature already given. |
-| VERDICT + INVITATION | codify/must → principle → "welcome points of information, the named first" | Principle slowest. "the named first" with open palm toward the room — you just dared P5 to fight you. **Sit mid-silence.** |
+| THE HUNT | "March 2020. Libya. African soil." → Kargu-2 → "none." | Salutation crisp, then storyteller-cold. The three fragments like evidence photos on a table. "fire, forget, and find" flat — it's a UN quote, not your poetry. "The law that governed the hunt — none." **drop to near-whisper.** |
+| THE SILENCE | "175… 12–15… None must publish." | Pure numbers, clipped. No emotion — numbers carry it. |
+| THE DIVIDE | three camps → "counting on quiet rooms. Deny them." | Each camp = position only, zero placards. Delegates wearing the positions will feel them land — that's the point. "Deny them." — two words, directly to the floor, first open confrontation of the speech. |
+| THE OPERATOR'S TERMS | Morocco fleet → three trails | "flies unmanned systems under human command" = chin up. Trails moderate-fast then stop dead on "mechanism." |
+| THE CLOCK | "finish by 2026. It is 2026." → "position — or an excuse." | "It is 2026" — smallest voice of the speech. Fork even-paced. |
+| THE CHOICE | codify/must → principle → "Add your name." | Principle slowest. [PAUSE] one breath. "Add your name" pointed at the middle of the room. **Sit mid-silence.** |
+
+**Pace:** 261 words ÷ 163 wpm ≈ 96s with the two breaths. Fragments self-pace — never rush.
 
 ---
 
 ## CLOCK INSURANCE
 
-- **Strict ~85s chair:** delete the abstainer sentence ("And to every abstainer… vote for the gap." −14) **and** "A position that cannot survive talk will not survive the decade." (−11) → ≈ 82s. All four named fights survive.
-- **Catastrophic 60s:** USA fight → no-votes fight (compressed to names + "voted against conversation") → Morocco armor (one line: "we bind our own fleet to our own text") → verdict through "Add your name." ≈ 62s.
-- **Optional +12 insert** (only if a "premature" speaker just sat, before FIGHT 1): *"The delegate called law premature. Their own government has said exactly that since 2017 — the word has now delayed a decade."*
-- **Forbidden cuts, always:** "I name its owners," the USA doctrine collision, the principle sentence, the POI invitation.
+- **Strict 90s chair:** delete *"That is what no law looks like."* (−7) and *"Deny them."* (−2) → ≈ 91s.
+- **Catastrophic 60s:** the Hunt (keep "none.") → Silence trio → camps compressed to one line (*"prematurity, silence, and bans that stop at the factory gate — choose which one you came to retire."*) → terms compressed (*"human control, shared reviews, recorded engagements — each because a claimed safety must be checkable"*) → verdict through "Add your name." ≈ 63s.
+- **Optional +9 insert** (if a sufficiency speaker just sat, before the Clock): *"Twelve years of Geneva produced a record of one hunt and no rule."*
+- **Forbidden cuts, always:** the Kargu opening, the three camps, the because-trails, "Add your name."
 
 ---
 
-## FIGHT-RESPONSE MATRIX — they WILL swing back; welcome it (POI points) 🥊
+## POI DEFENSE — six executions + the dagger
 
-**🇺🇸 USA: "Our directive IS the gold standard — we don't need your treaty."**
-Then codify it, delegate. If human judgment is truly your doctrine, our clause 3 asks only that you sign what you already claim to do. A standard you will not write down is a standard you intend to move.
+**Q1. "You named a manufacturer's weapon. STM says the Kargu-2 was remotely operated."**
+The manufacturer says what it must. I quoted the United Nations Panel of Experts: weapons "hunted down and remotely engaged… a true 'fire, forget and find' capability." It is report S/2021/229 — the delegate may verify tonight. I said *reported*. I said *unresolved*. Both remain standing.
 
-**🇷🇺/🇧🇾/🇰🇵: "UNGA is theatre — the CCW in Geneva is the proper forum."**
-Geneva has held this file for twelve years under a consensus lock your delegation has used as a veto. This Assembly is not competing with the CCW — it is the majority's answer to the minority's veto. 166 votes said the same.
+**Q2. "Casualties were never confirmed — so nothing happened. Empty story."**
+Turn the delegate's sentence over and it is my argument: the first autonomous hunt in history produced nothing countable — no casualty figure, no review, no responsible party — because nothing in law required any of them. The gap is not that we know a machine killed. The gap is that if it did, **no one would ever have to tell us.**
 
-**🇨🇳 China: "We support banning use — development is a separate question."**
-Then we agree on tier one: co-sponsor it before this session ends. What remains unheard is why making these weapons deserves shelter that using them does not.
+**Q3. "Whose doctrine calls this premature? Name the state."**
+I quote governments, I don't ambush delegates — the word "premature" is on the record from the United States' own mission statements since 2017, while its defence directive demands appropriate human judgment. The camp recognizes itself. The point stands without the placard.
 
-**🇮🇳 India (friendly): "Our position evolves carefully, not under pressure."**
-Care is leadership's other name — and the delegate has already moved once this decade. The tier our text offers protects exactly the responsible use India describes. The final step is shorter than the ones already taken.
+**Q4. "And who voted against speaking, as you put it?"**
+The Assembly's journal: resolution 79/62 passed 166–3–15. The three noes are a matter of public record — Belarus, the DPRK, the Russian Federation. I left them unnamed in the speech because the record carries them. You made me retrieve it; happily done.
 
-**Any: "Naming delegations breaks decorum."**
-I named doctrines, votes and public positions — the business of this floor. I attacked no person; I quoted governments. And I remain available — as every delegate heard — for any point of information that disagrees.
+**Q5. "The 'ban use, not making' camp — again, who?"**
+A documented position — China stated it to the CCW in 2018 and has repeated versions since. Our tier one meets them 90% of the way: it prohibits exactly what cannot be lawfully used. What's missing is a signature, not an argument.
 
-**ALGERIA DAGGER:** *"Morocco binds its own fleet in its own text — no fence around ourselves. Test us against our clauses."* One line, never bilateral, sit.
+**Q6. "You spent half your time on one drone. Where is Morocco's plan?"**
+Two tiers: what cannot be lawfully used is prohibited; what can be is licensed under binding conditions — human control, reviews on shared criteria, recorded engagements. You heard the plan spoken. The text before you carries it in writing. That is more than twelve years produced.
 
----
-
-## PROOF MANIFEST — every punch receipted, live-checked 8 Aug 2026
-
-1. **USA — "premature"** — US Mission Geneva, 29 Aug 2018 (verbatim): *"we believe it is premature to enter into negotiations on a legally binding instrument…"* → https://geneva.usmission.gov/2018/08/29/u-s-delegation-statement-on-possible-policy-options/ · repeated 2017 ("remains premature") → https://geneva.usmission.gov/2017/11/15/u-s-opening-statement-at-ccw-meeting-of-group-of-governmental-experts-on-lethal-autonomous-weapons-systems/ · State Dept 2023 ("not the right time") → https://breakingdefense.com/2023/03/not-the-right-time-us-to-push-guidelines-not-bans-at-un-meeting-on-autonomous-weapons/
-2. **USA — the doctrine** — DoDD 3000.09 §1.2.a verbatim → https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/300009p.pdf
-3. **Belarus/DPRK/Russia no-votes, 166–3–15** — UNGA Res 79/62, 2 Dec 2024 → https://www.hrw.org/news/2024/12/05/killer-robots-un-vote-should-spur-treaty-negotiations
-4. **China — "ban the use, never the making"** — Stop Killer Robots country-views record: *"China states that its call is to ban the use of fully autonomous weapons, but not their development or production"* → https://www.stopkillerrobots.org/wp-content/uploads/2018/11/KRC_CountryViews22Nov2018.pdf · CRS corroboration: "China supports a ban on the use — but not development — of LAWS;" China's own 2018 working paper GGE.1-WP.7 → https://www.hrw.org/report/2020/08/10/stopping-killer-robots/country-positions-banning-fully-autonomous-weapons-and
-5. **India — no→abstain** — 2023 Res 78/241: 152–4–11, **India voted NO** → https://undocs.org/A/RES/78/241 · 2024 Res 79/62: India abstained (link 3).
-6. **Morocco operator + self-binding** — TB2 fleet under human command (2021) → https://english.alarabiya.net/News/north-africa/2021/09/25/Morocco-gets-first-batch-of-Turkish-combat-drones-Report · machinery = approved two-tier section (full map: `SPEECHES/WORKING_PAPER/MOROCCO_TWO_TIER_SECTION.md`).
-7. **Twenty-nine sponsors** — bloc roster, owner-confirmed 8 Aug 2026.
-8. **Principle sentence** — African Group 2023 (Morocco-endorsed): "direct, meaningful control… at all times" + SG/ICRC two-tier backbone (A/79/88 ¶54/¶68/¶71) → https://documents.un.org/doc/undoc/gen/n24/154/32/pdf/n2415432.pdf
-
-**Floor rule:** every name you speak = a document exists. You quote votes and doctrines; you never characterise intentions beyond "why the factory must stay dark" (which is a *question*, not a claim — that's why it survives).
+**ALGERIA DAGGER:** *"Morocco binds its own fleet in its own text — no fence around ourselves. Test us against our clauses."* One line. Never bilateral. Sit.
 
 ---
 
-## MOD MAP — what this GSL arms
+## PROOF MANIFEST — live-checked 8 Aug 2026
 
-- **Mod 22:** USA's "basic disagreements about what weapons we're talking about" (their 2023 excuse, link 1) → the definition speech answers it.
-- **Mod 1:** "premature" camp → the 175/12–15/0 detonation.
-- **Mod 21/12:** Patriot & swarm attacks extend the same named-engagement register.
-- **POI economy:** the invitation banks YOU minute-floor-time when they swing back — every returned swing is a scored rebuttal from this matrix.
+1. **The Kargu-2 record** — UN Panel of Experts on Libya, **S/2021/229 ¶63**: *"Logistics convoys and retreating [Haftar-affiliated forces] were subsequently hunted down and remotely engaged by… lethal autonomous weapons systems such as the STM Kargu-2… programmed to attack targets without requiring data connectivity between the operator and the munition: in effect, a true 'fire, forget and find' capability."* → https://undocs.org/S/2021/229 · corroboration + "report does not say anyone was killed" (NPR, 1 Jun 2021) → https://www.npr.org/2021/06/01/1002196245/a-u-n-report-suggests-libya-saw-the-first-battlefield-killing-by-an-autonomous-d
+2. **"The law that governed the hunt — none"** — SG report **A/79/88 ¶21**: no instrument specifically regulates LAWS → https://documents.un.org/doc/undoc/gen/n24/154/32/pdf/n2415432.pdf
+3. **"must review / known to do it / publish"** — Leupold (175 parties, Feb 2026; 17 publish process) → https://leupoldlegal.com/weapon-review-article-36-ap-i/ · SIPRI (12–15 mechanisms) → https://www.sipri.org/sites/default/files/files/insight/SIPRIInsight1501.pdf · no publication duty: A/79/88 ¶38.
+4. **Camp 1 — "premature"** — US Mission Geneva, 29 Aug 2018 (verbatim) → https://geneva.usmission.gov/2018/08/29/u-s-delegation-statement-on-possible-policy-options/ · their doctrine: DoDD 3000.09 §1.2.a → https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/300009p.pdf
+5. **Camp 2 — "voted against speaking"** — Res 79/62: 166–3–15 (Belarus, DPRK, Russia) → https://www.hrw.org/news/2024/12/05/killer-robots-un-vote-should-spur-treaty-negotiations
+6. **Camp 3 — "ban use, never making"** — China, CCW 2018 → https://www.stopkillerrobots.org/wp-content/uploads/2018/11/KRC_CountryViews22Nov2018.pdf · HRW country positions → https://www.hrw.org/report/2020/08/10/stopping-killer-robots/country-positions-banning-fully-autonomous-weapons-and
+7. **"finish by 2026 / It is 2026"** — A/79/88 **¶71** (SG call + Oct 2023 joint SG–ICRC President call). Same UN PDF.
+8. **Geneva final scheduled session** — CCW GGE, 31 Aug–4 Sep 2026 (floor phrasing: *"final scheduled session under the current mandate"*) → https://reachingcriticalwill.org/disarmament-fora/ccw/2026/gge/
+9. **Morocco operator + self-bind** — TB2 fleet under human command → https://english.alarabiya.net/News/north-africa/2021/09/25/Morocco-gets-first-batch-of-Turkish-combat-drones-Report · machinery = approved two-tier section (map: `SPEECHES/WORKING_PAPER/MOROCCO_TWO_TIER_SECTION.md`).
+
+**Floor rule:** the story can be performed; the record cannot be improvised. "Reported." "Unresolved." "None." — exact words, every time.
+
+---
+
+## MOD MAP — chambered beyond the GSL
+
+- **Mod 22:** "needing no signal back to a human" → the characterization fight (GGE Dec 2025 text).
+- **Mod 1:** the Silence trio detonates fully there — "175 must review… none must publish."
+- **Mod 21 (reserve ammo):** Patriot 2003 fratricides — even *supervised* automation misreads intent.
+- **Mod 12 (reserve ammo):** Perdix 103-swarm / Spider Web 117 FPVs — attribution without records.
+- **POI Q2 recycle:** "the gap is that if it did, no one would have to tell us" — the strongest single sentence in the pack; reuse it.
 
 *— war council out 🇲🇦*
