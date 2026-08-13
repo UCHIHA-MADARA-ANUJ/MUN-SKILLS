@@ -11,7 +11,7 @@
 <!-- SPEECH-START -->
 Honourable Chair, esteemed judges, distinguished delegates — *for twelve years this room mourned the gap. Today, I name its owners.*
 
-**Delegate of the United States** — your own directive demands *"appropriate levels of human judgment over the use of force,"* yet your diplomacy calls binding law **"premature."** Doctrine or delay, delegate? *You cannot demand judgment at home and call it premature here.*
+**Delegate of the United States** — your own directive demands *"appropriate levels of human judgment over the use of force,"* yet calls binding law **"premature."** Doctrine or delay, delegate? *You cannot demand judgment at home and call it premature here.*
 
 **Delegates of Belarus, the DPRK and Russia** — one hundred sixty-six states voted to keep talking; you three voted for silence. Not against a treaty — **against conversation.** *A position that cannot survive talk will not survive the decade.*
 
@@ -23,7 +23,7 @@ Morocco demands nothing it will not sign: *we fly unmanned systems under human c
 
 **If these safeguards already exist, codify them. If they do not, this committee must. The principle is one sentence long: the decision to use lethal force must remain under meaningful human control.** [PAUSE]
 
-Morocco has chosen. *Add your name.* The floor is open — **I welcome points of information, the named first.**
+Morocco has chosen. *Add your name.* **I welcome points of information — the named first.**
 <!-- SPEECH-END -->
 
 ---
